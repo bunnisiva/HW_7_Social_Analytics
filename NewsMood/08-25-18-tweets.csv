@@ -1,0 +1,586 @@
+,tweet_vader_score,tweet_neg_score,tweet_pos_score,tweet_neu_score,tweet_source,tweet_text,tweet_date
+0,0.0,0.0,0.0,1.0,CNN,"¡Ay, caramba! A real-life Kwik-E-Mart store has opened https://t.co/ehx0INie7X https://t.co/umgRElnicf",Wed Aug 22 00:44:09 +0000 2018
+1,0.0,0.0,0.0,1.0,CNN,"This family has been traveling the globe by sailboat for a decade, homeschooling their children and seeing the worl… https://t.co/Ab5RUNev9I",Wed Aug 22 00:41:00 +0000 2018
+2,0.128,0.0,0.057,0.943,CNN,"RT @OutFrontCNN: ""I think when the President and his legal team come forward and tell their side of the story I think you are going to see…",Wed Aug 22 00:37:32 +0000 2018
+3,0.0,0.0,0.0,1.0,CNN,Cowabunga! A real-life Kwik-E-Mart store has opened https://t.co/ehx0INie7X https://t.co/KwZJOQQEDV,Wed Aug 22 00:26:43 +0000 2018
+4,0.0,0.0,0.0,1.0,CNN,"Ep3 of “RBG: Beyond Notorious” takes us back to the 90's, when Ginsburg was nominated by Pres. Clinton:… https://t.co/5lDXfMx8uC",Wed Aug 22 00:25:21 +0000 2018
+5,0.4201,0.0,0.097,0.903,CNN,"RT @AC360: .@andersoncooper: Of all the days we have seen, we have not seen a day quite like this.
+
+The man who once said he would take a b…",Wed Aug 22 00:23:18 +0000 2018
+6,0.0,0.0,0.0,1.0,CNN,"The Eagles now have the top-selling album in history, surpassing Michael Jackson's ""Thriller""… https://t.co/luwooLyXnc",Wed Aug 22 00:21:10 +0000 2018
+7,0.0,0.0,0.0,1.0,CNN,"RT @OutFrontCNN: ""My concern is that the President reacts and begins beyond just obstructing the investigation. I think he talks more serio…",Wed Aug 22 00:19:16 +0000 2018
+8,0.0,0.0,0.0,1.0,CNN,"We're going to a lot of different states. And I’m coming back here before the election."" Speaking at a rally in Wes… https://t.co/5cLFn77hJT",Wed Aug 22 00:12:42 +0000 2018
+9,0.0,0.0,0.0,1.0,CNN,"Facebook has taken down 652 pages, accounts and groups it says were part of a coordinated disinformation campaign.… https://t.co/yOJx9N4qY1",Tue Aug 21 23:52:22 +0000 2018
+10,-0.8316,0.355,0.0,0.645,CNN,"Former Trump campaign chairman Paul Manafort was found guilty on:
+• 5 counts of tax fraud
+• 1 charge of hiding fore… https://t.co/Wl5WtjkyXT",Tue Aug 21 23:44:33 +0000 2018
+11,-0.4215,0.128,0.0,0.872,CNN,"RT @OutFrontCNN: President Trump is holding a rally in Charleston, West Virginia, hours after his former personal attorney pleaded guilty t…",Tue Aug 21 23:37:14 +0000 2018
+12,0.5106,0.0,0.148,0.852,CNN,A 3-year-old boy and his 1-year-old brother survived on their own -- possibly for days -- after being in a single-v… https://t.co/5dLvyfBZL7,Tue Aug 21 23:37:02 +0000 2018
+13,0.0,0.0,0.0,1.0,CNN,"President Trump is holding a rally in Charleston, West Virginia, hours after his former personal attorney pleaded g… https://t.co/LV4efPP1ly",Tue Aug 21 23:25:23 +0000 2018
+14,-0.6249,0.24,0.0,0.76,CNN,The worst hour of Donald Trump's presidency just happened | Analysis by @CillizzaCNN https://t.co/szrsbvViZw https://t.co/bXIoKwGEyC,Tue Aug 21 23:21:37 +0000 2018
+15,0.0,0.0,0.0,1.0,CNN,"President Trump is holding a rally in Charleston, West Virginia, hours after his former personal attorney pleaded g… https://t.co/UNZ1pO0uP3",Tue Aug 21 23:18:06 +0000 2018
+16,-0.25,0.111,0.0,0.889,CNN,"A magnitude 7.3 earthquake struck Tuesday near Yaguaraparo, off the northeastern coast of Venezuela, according to t… https://t.co/8NJGDU3KIe",Tue Aug 21 23:07:23 +0000 2018
+17,-0.1027,0.109,0.092,0.798,CNN,"RT @CNNSitRoom: Senator Blumenthal says if President Trump pardons his former campaign chairman Paul Manafort, “he would be screaming to th…",Tue Aug 21 23:02:41 +0000 2018
+18,0.0,0.0,0.0,1.0,CNN,"READ: Indictment of Rep. Duncan Hunter and his wife, Margaret https://t.co/BUFPbeUXsf https://t.co/3Yz0URlnf2",Tue Aug 21 22:50:06 +0000 2018
+19,0.0,0.0,0.0,1.0,CNN,Lawmakers are left reeling as Capitol Hill digests Paul Manafort and Michael Cohen cases https://t.co/92qXYmJ7LD https://t.co/FtpjLFNYMF,Tue Aug 21 22:40:08 +0000 2018
+20,0.2732,0.0,0.095,0.905,fantastic ms.,"A friendly reminder that Guetzli, Google’s open source JPEG encoder, might be slower but can yield even up to 50% a… https://t.co/FN26irQYi8",Tue Aug 21 23:51:22 +0000 2018
+21,-0.204,0.233,0.147,0.619,fantastic ms.,"Lazy loading content can be a very powerful performance strategy. Unfortunately, often it’s complicated to implemen… https://t.co/ZHbSmxFB25",Mon Aug 20 23:03:43 +0000 2018
+22,0.7717,0.0,0.283,0.717,fantastic ms.,"👋🏻I’m selling a bit of Apple gear in excellent condition, Melbourne only. Retweets welcome. Reply or email if you’r… https://t.co/Kift5NHw9e",Mon Aug 20 00:00:09 +0000 2018
+23,-0.6072,0.189,0.0,0.811,fantastic ms.,"@j2h @benschwarz I get off twitter and this is what happens? what is this bromance, Josh??? should I feel threatened? 😂",Thu Aug 09 04:56:06 +0000 2018
+24,-0.1027,0.172,0.151,0.677,fantastic ms.,"We all need a bit of good news in those disturbing times—here’s where @goodgoodgood delivers. 
+
+https://t.co/T5qhMKd4aY",Wed Aug 08 02:12:41 +0000 2018
+25,0.128,0.0,0.091,0.909,fantastic ms.,"I travel a bit and carefully choose where I stay, eat and go (uh, the designer struggle). I 😍 @sabrina’s… https://t.co/f43vmBg3DW",Wed Aug 08 02:10:53 +0000 2018
+26,-0.1945,0.153,0.118,0.728,fantastic ms.,I’ve recently subscribed to @jkglei’s newsletter and never looked back. Love the focus on thoughtful technology and… https://t.co/m28bMmSEBV,Wed Aug 08 02:08:41 +0000 2018
+27,0.8316,0.0,0.404,0.596,fantastic ms.,"If customer success, culture, growth and product are your jam, I couldn’t recommend @helpscout’s newsletters more.… https://t.co/8ji9mKMLeX",Wed Aug 08 02:07:07 +0000 2018
+28,0.5267,0.0,0.167,0.833,fantastic ms.,"I have been enjoying @intercom newsletters for product, marketing and startup tips. The quality has always been ama… https://t.co/fA9fw1KXIt",Wed Aug 08 01:59:38 +0000 2018
+29,0.7717,0.0,0.324,0.676,fantastic ms.,"The Daily Good from @thegoodtrade covers conscious, sustainable fashion, wellbeing, beauty, food, lifestyle and tra… https://t.co/qmAOyGcm9i",Wed Aug 08 01:57:04 +0000 2018
+30,0.5719,0.0,0.188,0.812,fantastic ms.,Friday is one of my favourite days because of @girlsnightinHQ. A perfect encapsulation of self-care and womanhood.… https://t.co/HhI1mGfXe8,Wed Aug 08 01:54:45 +0000 2018
+31,0.9201,0.0,0.464,0.536,fantastic ms.,"I love @offscreenmag Dispatch. Great productivity tools, services and design objects all wrapped up in a lovely des… https://t.co/lR8tsWKGNw",Wed Aug 08 01:50:21 +0000 2018
+32,0.0,0.0,0.0,1.0,fantastic ms.,Here are my favourite newsletters (it’s now the primary way I discover content as I’ve mostly ditched reading social media). ↓,Wed Aug 08 01:48:16 +0000 2018
+33,0.4019,0.0,0.153,0.847,fantastic ms.,RT @6Gems: Black women are paid 38% less than white men. I support equal pay—because #38PercentCounts. https://t.co/mXFOdcL8Q3,Tue Aug 07 23:32:22 +0000 2018
+34,0.0,0.0,0.0,1.0,fantastic ms.,"If you’re up for a conference-grade talk about UX and groundbreaking performance strategies, come to see… https://t.co/x2sghiw62F",Tue Aug 07 23:32:15 +0000 2018
+35,0.4404,0.0,0.132,0.868,fantastic ms.,"RT @Calibreapp: Scheduler 2.0
+
+Our longest standing feature request was to improve Calibre’s test scheduler. That’s exactly what we’ve done…",Tue Aug 07 23:28:56 +0000 2018
+36,0.7574,0.0,0.245,0.755,fantastic ms.,"RT @fox: Hey #dddperth, here are the slides with all the references from my keynote about building a welcoming, ethical Web! Transcript com…",Tue Aug 07 23:06:06 +0000 2018
+37,0.4199,0.0,0.482,0.518,fantastic ms.,"@LNRBLB thank you, Eleanor! 🎉",Sat Aug 04 03:47:44 +0000 2018
+38,0.4199,0.0,0.583,0.417,fantastic ms.,@cckate thank you! 💖,Sat Aug 04 03:27:03 +0000 2018
+39,0.7574,0.0,0.276,0.724,fantastic ms.,"Hey #dddperth, here are the slides with all the references from my keynote about building a welcoming, ethical Web!… https://t.co/hPilGINzyI",Sat Aug 04 03:12:25 +0000 2018
+40,0.0772,0.0,0.126,0.874,BBC News (World),In pictures: ‘This is the Sudan I want to show’ https://t.co/PNUWRIDphF,Tue Aug 21 23:28:19 +0000 2018
+41,0.4215,0.0,0.359,0.641,BBC News (World),Facebook gives users trustworthiness score https://t.co/vo48STgpEd,Tue Aug 21 22:43:18 +0000 2018
+42,0.0,0.0,0.0,1.0,BBC News (World),Spokane residents launch campaign to blow smoke back to Canada https://t.co/27EwqTYhfl,Tue Aug 21 22:17:04 +0000 2018
+43,0.0,0.0,0.0,1.0,BBC News (World),A lawyer at 61: Why it's never too late to switch careers https://t.co/moYZ4xznP0,Tue Aug 21 22:06:38 +0000 2018
+44,0.0,0.0,0.0,1.0,BBC News (World),Paul Manafort convicted: What did we learn from trial? https://t.co/3VxgTaqKAX,Tue Aug 21 21:50:38 +0000 2018
+45,-0.743,0.24,0.0,0.76,BBC News (World),"RT @BBCBreaking: Trump's former lawyer Michael Cohen pleads guilty to violating campaign finance laws, says he did so at direction of ""the…",Tue Aug 21 21:14:52 +0000 2018
+46,0.0,0.0,0.0,1.0,BBC News (World),Michael Cohen: Trump's personal lawyer who paid a porn star https://t.co/6yuEF3YE61,Tue Aug 21 21:05:56 +0000 2018
+47,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCJonSopel: Former @realDonaldTrump personal lawyer #MichaelCohen who paid off @StormyDaniels weeks before election #MichaelCohen says…,Tue Aug 21 20:54:54 +0000 2018
+48,-0.8689,0.381,0.089,0.53,BBC News (World),"RT @BBCBreaking: Ex-Trump campaign chief Paul Manafort guilty of tax fraud charges, jury fails to reach verdict on 10 other counts https://…",Tue Aug 21 20:43:33 +0000 2018
+49,0.0,0.0,0.0,1.0,BBC News (World),Pope's message ahead of Ireland visit https://t.co/teBnNCOw6r,Tue Aug 21 20:18:18 +0000 2018
+50,0.0,0.0,0.0,1.0,BBC News (World),Venezuela paralysed by launch of sovereign bolivar currency https://t.co/e0rOWF017V,Tue Aug 21 20:13:05 +0000 2018
+51,-0.1531,0.06,0.0,0.94,BBC News (World),"RT @awzurcher: The plea deal is the first step. The sentencing - and what, if anything, Cohen does or says to reduce his jail time - is the…",Tue Aug 21 19:51:12 +0000 2018
+52,0.128,0.197,0.229,0.573,BBC News (World),Aerial photos reveal the stark divide between rich and poor https://t.co/QuDZBkiAdO,Tue Aug 21 19:47:48 +0000 2018
+53,-0.8074,0.58,0.0,0.42,BBC News (World),US inmates nationwide strike to protest 'modern slavery' https://t.co/J6HcZdOLcx,Tue Aug 21 19:41:46 +0000 2018
+54,0.0,0.0,0.0,1.0,BBC News (World),Christopher Steele: Defamation case against dossier author dismissed https://t.co/lOnrSm6OZu,Tue Aug 21 19:08:04 +0000 2018
+55,-0.6597,0.231,0.0,0.769,BBC News (World),"RT @BBCJonSopel: Uncomfortable day for @realDonaldTrump. 
+Former lawyer and Mr Fixit, #MichaelCohen due in court to plead guilty to multipl…",Tue Aug 21 18:54:06 +0000 2018
+56,0.0,0.0,0.0,1.0,BBC News (World),Mystery gunman targets New York luxury high-rise https://t.co/lYGiOsWEHM,Tue Aug 21 18:45:31 +0000 2018
+57,-0.8689,0.494,0.0,0.506,BBC News (World),"Spain knifeman shot dead in Barcelona was ""gay and suicidal"" https://t.co/7xFYfkqHCv",Tue Aug 21 18:19:38 +0000 2018
+58,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCBreaking: Former Trump lawyer Michael Cohen has entered into a plea deal with US federal prosecutors in New York - US media https://…,Tue Aug 21 18:06:53 +0000 2018
+59,0.1779,0.1,0.131,0.769,BBC News (World),"RT @BBCBreaking: Oscar-winning Danny Boyle will no longer direct 25th Bond film due to ""creative differences"", producers say https://t.co/a…",Tue Aug 21 17:49:28 +0000 2018
+60,0.0,0.0,0.0,1.0,CBS News,Rep. Duncan Hunter and his wife indicted https://t.co/p5DszHv2ic https://t.co/76MhZOBFqa,Wed Aug 22 00:39:46 +0000 2018
+61,0.0,0.0,0.0,1.0,CBS News,Michael Cohen says he paid off women at Trump's direction to influence election https://t.co/sQYELkzvTb https://t.co/YyH7g1HadP,Wed Aug 22 00:19:51 +0000 2018
+62,0.0,0.0,0.0,1.0,CBS News,“It should have never happened…the immigration laws are such a disgrace”: President Trump appears to refer to Iowa… https://t.co/ckXgh5zD6a,Tue Aug 21 23:59:14 +0000 2018
+63,0.9186,0.0,0.433,0.567,CBS News,"“You are proud of our history. And unlike the NFL, you always honor and cherish our great American flag,” President… https://t.co/TXLRYlbmUc",Tue Aug 21 23:26:22 +0000 2018
+64,0.4404,0.0,0.139,0.861,CBS News,"HAPPENING NOW: President Trump speaks to supporters at West Virginia rally, just hours after key associates Paul Ma… https://t.co/BUdogu4Gw3",Tue Aug 21 23:21:27 +0000 2018
+65,-0.2732,0.11,0.0,0.89,CBS News,"Tom Hanks is among more than 1,000 people who sent birthday postcards to a 12-year-old girl battling leukemia… https://t.co/ei6hoLeMh1",Tue Aug 21 23:09:57 +0000 2018
+66,-0.872,0.344,0.0,0.656,CBS News,"Officials say murdered Iowa college student Mollie Tibbetts was allegedly killed by a 24-year-old man, who is an il… https://t.co/TvYpNu5z36",Tue Aug 21 23:06:24 +0000 2018
+67,-0.7845,0.257,0.0,0.743,CBS News,"RT @CBSEveningNews: Chris Watts, whose pregnant wife and two young daughters were found dead in a shallow grave and oil tanks, has confesse…",Tue Aug 21 23:01:30 +0000 2018
+68,0.5789,0.0,0.253,0.747,CBS News,"""Legally the Manafort convictions don't jeopardize the President, but they do fortify the special counsel..."":… https://t.co/ptvJrWElHV",Tue Aug 21 22:52:33 +0000 2018
+69,-0.7351,0.267,0.0,0.733,CBS News,"HER TOO? Asia Argento denies allegations that she sexually assaulted a teen boy, says accuser tried extorting her a… https://t.co/TsDaKHxh6V",Tue Aug 21 22:50:01 +0000 2018
+70,-0.743,0.27,0.0,0.73,CBS News,"RT @CBSEveningNews: Pres. Trump’s former personal attorney Michael Cohen pleaded guilty to eight felony counts on Tuesday, including campai…",Tue Aug 21 22:46:46 +0000 2018
+71,-0.296,0.199,0.11,0.691,CBS News,"Paul Manafort was found guilty of 8 of 18 charges today, marking the first conviction for Special Counsel Robert Mu… https://t.co/XucyOMnstf",Tue Aug 21 22:46:22 +0000 2018
+72,-0.4215,0.128,0.0,0.872,CBS News,LIVE UPDATES: President Trump is set to speak in West Virginia after Michael Cohen's guilty plea and Paul Manafort'… https://t.co/YFIU4A2mRn,Tue Aug 21 22:30:01 +0000 2018
+73,-0.2263,0.106,0.0,0.894,CBS News,"A class-action lawsuit against the marketing company Herbalife could involve more than 100,000 plaintiffs and up to… https://t.co/yYT6ALzAmm",Tue Aug 21 22:09:36 +0000 2018
+74,0.0,0.0,0.0,1.0,CBS News,Wyoming and Alaska have tight primary contests tonight. Here's what you need to know: https://t.co/byUn3JKF2z https://t.co/hFhiSi45CO,Tue Aug 21 21:50:45 +0000 2018
+75,-0.5256,0.152,0.0,0.848,CBS News,"WATCH: President Trump, arriving in West Virginia, says he feels ""very badly"" for Paul Manafort after he was found… https://t.co/zN2shgIYev",Tue Aug 21 21:43:35 +0000 2018
+76,-0.7269,0.289,0.0,0.711,CBS News,MOLLIE TIBBETTS CASE: A 24-year-old man has been charged for allegedly murdering the Iowa college student. Official… https://t.co/lf0NNSUfgf,Tue Aug 21 21:41:01 +0000 2018
+77,0.0,0.0,0.0,1.0,CBS News,"Two senators investigating Russian interference in the 2016 election say they have ""recently reengaged"" Michael Coh… https://t.co/jzqyOSm27I",Tue Aug 21 21:35:39 +0000 2018
+78,-0.6997,0.284,0.062,0.654,CBS News,"White House sources say there's worry in the building over the Paul Manafort guilty verdict. ""It's really hard to g… https://t.co/QOZrVM6hL6",Tue Aug 21 21:30:29 +0000 2018
+79,-0.6214,0.263,0.0,0.737,CBS News,"Michael Cohen is going to pay ""a very, very serious price"" after pleading guilty, Deputy U.S. Attorney Robert Khuza… https://t.co/Bkn7BdBAEs",Tue Aug 21 21:23:15 +0000 2018
+80,0.0,0.0,0.0,1.0,The New York Times,"“If anybody told me the story I’m telling,” he said, “I wouldn’t believe it.” 
+
+A widower met a younger woman on th… https://t.co/FG18uRX8nb",Wed Aug 22 00:32:08 +0000 2018
+81,-0.2023,0.184,0.0,0.816,The New York Times,Everyone charged in the Russia investigation so far https://t.co/0RtqheXzCU,Wed Aug 22 00:14:05 +0000 2018
+82,0.0,0.0,0.0,1.0,The New York Times,"Mollie Tibbetts, a 20-year-old student at the University of Iowa, was last seen a month ago while going for a jog i… https://t.co/6jAbckk1p2",Wed Aug 22 00:02:01 +0000 2018
+83,-0.875,0.37,0.0,0.63,The New York Times,"RT @nytvideo: Michael Cohen, President Trump's former fixer, pleaded guilty to tax evasion, bank fraud and campaign finance violations. Her…",Tue Aug 21 23:46:06 +0000 2018
+84,0.0,0.0,0.0,1.0,The New York Times,Breaking News: Facebook took down 652 accounts and pages after finding a new influence campaign ahead of the midter… https://t.co/iaKA4zG99e,Tue Aug 21 23:29:50 +0000 2018
+85,0.0,0.0,0.0,1.0,The New York Times,"RT @sheeraf: And our story is out! Facebook announcing a much bigger take down of accounts, pages and groups taking part in influence opera…",Tue Aug 21 23:26:15 +0000 2018
+86,0.0,0.0,0.0,1.0,The New York Times,"RT @sheeraf: This time, Facebook is naming names. They will announce that a coordinated influence campaign, some of which originated in Ira…",Tue Aug 21 23:26:02 +0000 2018
+87,-0.1531,0.127,0.1,0.773,The New York Times,"RT @karenyourish: (Jan.) Cohen: Trump denies affair
+↓
+(Feb.) Cohen: Ok, I paid Stormy
+↓
+(April) Trump: I didn’t know about payment
+↓
+(Tuesd…",Tue Aug 21 23:21:03 +0000 2018
+88,0.0,0.0,0.0,1.0,The New York Times,"Michael Cohen's plea came shortly before another blow to President Trump: his former campaign manager, Paul Manafor… https://t.co/LKedIWImpV",Tue Aug 21 23:09:18 +0000 2018
+89,-0.5267,0.246,0.119,0.634,The New York Times,Michael Cohen also pleaded guilty to multiple counts of tax evasion and bank fraud. Here's the plea agreement betwe… https://t.co/m3G5DMe9E1,Tue Aug 21 23:02:33 +0000 2018
+90,0.0,0.0,0.0,1.0,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/7yZNr6JgMB,Tue Aug 21 22:47:01 +0000 2018
+91,0.0,0.0,0.0,1.0,The New York Times,Here’s everything Trump’s team has said about the payment to Stormy Daniels https://t.co/xu8KIYsBP0,Tue Aug 21 22:32:06 +0000 2018
+92,0.6249,0.0,0.203,0.797,The New York Times,"RT @katierogers: ""One collateral effect of Mr. Cohen’s plea agreement is that it may allow Michael Avenatti, Ms. Clifford’s lawyer, to proc…",Tue Aug 21 22:17:03 +0000 2018
+93,0.0,0.0,0.0,1.0,The New York Times,Michael Cohen made the admission about President Trump’s role in the payments to an adult film actress and a former… https://t.co/ww2qUXJYHV,Tue Aug 21 22:02:00 +0000 2018
+94,0.0,0.0,0.0,1.0,The New York Times,"RT @peterbakernyt: Cohen says he paid off Stormy Daniels ""at the direction of the candidate,” meaning Trump. ⁦@WRashbaum⁩ ⁦@maggieNYT⁩ ⁦@be…",Tue Aug 21 21:47:06 +0000 2018
+95,0.0,0.0,0.0,1.0,The New York Times,"RT @jmartNYT: Point here being: Cohen wasn't just Trump's lawyer, handling zoning regs and such.  He was part of a tiny inner circle in yea…",Tue Aug 21 21:30:10 +0000 2018
+96,0.0,0.0,0.0,1.0,The New York Times,Breaking News: Michael Cohen said in court that he paid Stormy Daniels “at the direction of” Donald Trump for the p… https://t.co/68TdyFfmt8,Tue Aug 21 21:13:02 +0000 2018
+97,-0.5859,0.174,0.0,0.826,The New York Times,"RT @peterbakernyt: Paul Manafort, President Trump’s former campaign chairman, was convicted on Tuesday in his financial fraud trial, bringi…",Tue Aug 21 21:11:06 +0000 2018
+98,0.5106,0.0,0.193,0.807,The New York Times,"The verdict was a victory for the special counsel, Robert S. Mueller III, whose prosecutors built a case that Mr. M… https://t.co/dhWPMwsR5D",Tue Aug 21 20:56:00 +0000 2018
+99,-0.34,0.107,0.0,0.893,The New York Times,"Breaking News: The former Trump campaign chief Paul Manafort was convicted of eight counts of fraud, but the jury c… https://t.co/xlPtL3LyWq",Tue Aug 21 20:44:21 +0000 2018
+100,0.0,0.0,0.0,1.0,CNN,"¡Ay, caramba! A real-life Kwik-E-Mart store has opened https://t.co/ehx0INie7X https://t.co/umgRElnicf",Wed Aug 22 00:44:09 +0000 2018
+101,0.0,0.0,0.0,1.0,CNN,"This family has been traveling the globe by sailboat for a decade, homeschooling their children and seeing the worl… https://t.co/Ab5RUNev9I",Wed Aug 22 00:41:00 +0000 2018
+102,0.128,0.0,0.057,0.943,CNN,"RT @OutFrontCNN: ""I think when the President and his legal team come forward and tell their side of the story I think you are going to see…",Wed Aug 22 00:37:32 +0000 2018
+103,0.0,0.0,0.0,1.0,CNN,Cowabunga! A real-life Kwik-E-Mart store has opened https://t.co/ehx0INie7X https://t.co/KwZJOQQEDV,Wed Aug 22 00:26:43 +0000 2018
+104,0.0,0.0,0.0,1.0,CNN,"Ep3 of “RBG: Beyond Notorious” takes us back to the 90's, when Ginsburg was nominated by Pres. Clinton:… https://t.co/5lDXfMx8uC",Wed Aug 22 00:25:21 +0000 2018
+105,0.4201,0.0,0.097,0.903,CNN,"RT @AC360: .@andersoncooper: Of all the days we have seen, we have not seen a day quite like this.
+
+The man who once said he would take a b…",Wed Aug 22 00:23:18 +0000 2018
+106,0.0,0.0,0.0,1.0,CNN,"The Eagles now have the top-selling album in history, surpassing Michael Jackson's ""Thriller""… https://t.co/luwooLyXnc",Wed Aug 22 00:21:10 +0000 2018
+107,0.0,0.0,0.0,1.0,CNN,"RT @OutFrontCNN: ""My concern is that the President reacts and begins beyond just obstructing the investigation. I think he talks more serio…",Wed Aug 22 00:19:16 +0000 2018
+108,0.0,0.0,0.0,1.0,CNN,"We're going to a lot of different states. And I’m coming back here before the election."" Speaking at a rally in Wes… https://t.co/5cLFn77hJT",Wed Aug 22 00:12:42 +0000 2018
+109,0.0,0.0,0.0,1.0,CNN,"Facebook has taken down 652 pages, accounts and groups it says were part of a coordinated disinformation campaign.… https://t.co/yOJx9N4qY1",Tue Aug 21 23:52:22 +0000 2018
+110,-0.8316,0.355,0.0,0.645,CNN,"Former Trump campaign chairman Paul Manafort was found guilty on:
+• 5 counts of tax fraud
+• 1 charge of hiding fore… https://t.co/Wl5WtjkyXT",Tue Aug 21 23:44:33 +0000 2018
+111,-0.4215,0.128,0.0,0.872,CNN,"RT @OutFrontCNN: President Trump is holding a rally in Charleston, West Virginia, hours after his former personal attorney pleaded guilty t…",Tue Aug 21 23:37:14 +0000 2018
+112,0.5106,0.0,0.148,0.852,CNN,A 3-year-old boy and his 1-year-old brother survived on their own -- possibly for days -- after being in a single-v… https://t.co/5dLvyfBZL7,Tue Aug 21 23:37:02 +0000 2018
+113,0.0,0.0,0.0,1.0,CNN,"President Trump is holding a rally in Charleston, West Virginia, hours after his former personal attorney pleaded g… https://t.co/LV4efPP1ly",Tue Aug 21 23:25:23 +0000 2018
+114,-0.6249,0.24,0.0,0.76,CNN,The worst hour of Donald Trump's presidency just happened | Analysis by @CillizzaCNN https://t.co/szrsbvViZw https://t.co/bXIoKwGEyC,Tue Aug 21 23:21:37 +0000 2018
+115,0.0,0.0,0.0,1.0,CNN,"President Trump is holding a rally in Charleston, West Virginia, hours after his former personal attorney pleaded g… https://t.co/UNZ1pO0uP3",Tue Aug 21 23:18:06 +0000 2018
+116,-0.25,0.111,0.0,0.889,CNN,"A magnitude 7.3 earthquake struck Tuesday near Yaguaraparo, off the northeastern coast of Venezuela, according to t… https://t.co/8NJGDU3KIe",Tue Aug 21 23:07:23 +0000 2018
+117,-0.1027,0.109,0.092,0.798,CNN,"RT @CNNSitRoom: Senator Blumenthal says if President Trump pardons his former campaign chairman Paul Manafort, “he would be screaming to th…",Tue Aug 21 23:02:41 +0000 2018
+118,0.0,0.0,0.0,1.0,CNN,"READ: Indictment of Rep. Duncan Hunter and his wife, Margaret https://t.co/BUFPbeUXsf https://t.co/3Yz0URlnf2",Tue Aug 21 22:50:06 +0000 2018
+119,0.0,0.0,0.0,1.0,CNN,Lawmakers are left reeling as Capitol Hill digests Paul Manafort and Michael Cohen cases https://t.co/92qXYmJ7LD https://t.co/FtpjLFNYMF,Tue Aug 21 22:40:08 +0000 2018
+120,0.2732,0.0,0.095,0.905,fantastic ms.,"A friendly reminder that Guetzli, Google’s open source JPEG encoder, might be slower but can yield even up to 50% a… https://t.co/FN26irQYi8",Tue Aug 21 23:51:22 +0000 2018
+121,-0.204,0.233,0.147,0.619,fantastic ms.,"Lazy loading content can be a very powerful performance strategy. Unfortunately, often it’s complicated to implemen… https://t.co/ZHbSmxFB25",Mon Aug 20 23:03:43 +0000 2018
+122,0.7717,0.0,0.283,0.717,fantastic ms.,"👋🏻I’m selling a bit of Apple gear in excellent condition, Melbourne only. Retweets welcome. Reply or email if you’r… https://t.co/Kift5NHw9e",Mon Aug 20 00:00:09 +0000 2018
+123,-0.6072,0.189,0.0,0.811,fantastic ms.,"@j2h @benschwarz I get off twitter and this is what happens? what is this bromance, Josh??? should I feel threatened? 😂",Thu Aug 09 04:56:06 +0000 2018
+124,-0.1027,0.172,0.151,0.677,fantastic ms.,"We all need a bit of good news in those disturbing times—here’s where @goodgoodgood delivers. 
+
+https://t.co/T5qhMKd4aY",Wed Aug 08 02:12:41 +0000 2018
+125,0.128,0.0,0.091,0.909,fantastic ms.,"I travel a bit and carefully choose where I stay, eat and go (uh, the designer struggle). I 😍 @sabrina’s… https://t.co/f43vmBg3DW",Wed Aug 08 02:10:53 +0000 2018
+126,-0.1945,0.153,0.118,0.728,fantastic ms.,I’ve recently subscribed to @jkglei’s newsletter and never looked back. Love the focus on thoughtful technology and… https://t.co/m28bMmSEBV,Wed Aug 08 02:08:41 +0000 2018
+127,0.8316,0.0,0.404,0.596,fantastic ms.,"If customer success, culture, growth and product are your jam, I couldn’t recommend @helpscout’s newsletters more.… https://t.co/8ji9mKMLeX",Wed Aug 08 02:07:07 +0000 2018
+128,0.5267,0.0,0.167,0.833,fantastic ms.,"I have been enjoying @intercom newsletters for product, marketing and startup tips. The quality has always been ama… https://t.co/fA9fw1KXIt",Wed Aug 08 01:59:38 +0000 2018
+129,0.7717,0.0,0.324,0.676,fantastic ms.,"The Daily Good from @thegoodtrade covers conscious, sustainable fashion, wellbeing, beauty, food, lifestyle and tra… https://t.co/qmAOyGcm9i",Wed Aug 08 01:57:04 +0000 2018
+130,0.5719,0.0,0.188,0.812,fantastic ms.,Friday is one of my favourite days because of @girlsnightinHQ. A perfect encapsulation of self-care and womanhood.… https://t.co/HhI1mGfXe8,Wed Aug 08 01:54:45 +0000 2018
+131,0.9201,0.0,0.464,0.536,fantastic ms.,"I love @offscreenmag Dispatch. Great productivity tools, services and design objects all wrapped up in a lovely des… https://t.co/lR8tsWKGNw",Wed Aug 08 01:50:21 +0000 2018
+132,0.0,0.0,0.0,1.0,fantastic ms.,Here are my favourite newsletters (it’s now the primary way I discover content as I’ve mostly ditched reading social media). ↓,Wed Aug 08 01:48:16 +0000 2018
+133,0.4019,0.0,0.153,0.847,fantastic ms.,RT @6Gems: Black women are paid 38% less than white men. I support equal pay—because #38PercentCounts. https://t.co/mXFOdcL8Q3,Tue Aug 07 23:32:22 +0000 2018
+134,0.0,0.0,0.0,1.0,fantastic ms.,"If you’re up for a conference-grade talk about UX and groundbreaking performance strategies, come to see… https://t.co/x2sghiw62F",Tue Aug 07 23:32:15 +0000 2018
+135,0.4404,0.0,0.132,0.868,fantastic ms.,"RT @Calibreapp: Scheduler 2.0
+
+Our longest standing feature request was to improve Calibre’s test scheduler. That’s exactly what we’ve done…",Tue Aug 07 23:28:56 +0000 2018
+136,0.7574,0.0,0.245,0.755,fantastic ms.,"RT @fox: Hey #dddperth, here are the slides with all the references from my keynote about building a welcoming, ethical Web! Transcript com…",Tue Aug 07 23:06:06 +0000 2018
+137,0.4199,0.0,0.482,0.518,fantastic ms.,"@LNRBLB thank you, Eleanor! 🎉",Sat Aug 04 03:47:44 +0000 2018
+138,0.4199,0.0,0.583,0.417,fantastic ms.,@cckate thank you! 💖,Sat Aug 04 03:27:03 +0000 2018
+139,0.7574,0.0,0.276,0.724,fantastic ms.,"Hey #dddperth, here are the slides with all the references from my keynote about building a welcoming, ethical Web!… https://t.co/hPilGINzyI",Sat Aug 04 03:12:25 +0000 2018
+140,0.0772,0.0,0.126,0.874,BBC News (World),In pictures: ‘This is the Sudan I want to show’ https://t.co/PNUWRIDphF,Tue Aug 21 23:28:19 +0000 2018
+141,0.4215,0.0,0.359,0.641,BBC News (World),Facebook gives users trustworthiness score https://t.co/vo48STgpEd,Tue Aug 21 22:43:18 +0000 2018
+142,0.0,0.0,0.0,1.0,BBC News (World),Spokane residents launch campaign to blow smoke back to Canada https://t.co/27EwqTYhfl,Tue Aug 21 22:17:04 +0000 2018
+143,0.0,0.0,0.0,1.0,BBC News (World),A lawyer at 61: Why it's never too late to switch careers https://t.co/moYZ4xznP0,Tue Aug 21 22:06:38 +0000 2018
+144,0.0,0.0,0.0,1.0,BBC News (World),Paul Manafort convicted: What did we learn from trial? https://t.co/3VxgTaqKAX,Tue Aug 21 21:50:38 +0000 2018
+145,-0.743,0.24,0.0,0.76,BBC News (World),"RT @BBCBreaking: Trump's former lawyer Michael Cohen pleads guilty to violating campaign finance laws, says he did so at direction of ""the…",Tue Aug 21 21:14:52 +0000 2018
+146,0.0,0.0,0.0,1.0,BBC News (World),Michael Cohen: Trump's personal lawyer who paid a porn star https://t.co/6yuEF3YE61,Tue Aug 21 21:05:56 +0000 2018
+147,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCJonSopel: Former @realDonaldTrump personal lawyer #MichaelCohen who paid off @StormyDaniels weeks before election #MichaelCohen says…,Tue Aug 21 20:54:54 +0000 2018
+148,-0.8689,0.381,0.089,0.53,BBC News (World),"RT @BBCBreaking: Ex-Trump campaign chief Paul Manafort guilty of tax fraud charges, jury fails to reach verdict on 10 other counts https://…",Tue Aug 21 20:43:33 +0000 2018
+149,0.0,0.0,0.0,1.0,BBC News (World),Pope's message ahead of Ireland visit https://t.co/teBnNCOw6r,Tue Aug 21 20:18:18 +0000 2018
+150,0.0,0.0,0.0,1.0,BBC News (World),Venezuela paralysed by launch of sovereign bolivar currency https://t.co/e0rOWF017V,Tue Aug 21 20:13:05 +0000 2018
+151,-0.1531,0.06,0.0,0.94,BBC News (World),"RT @awzurcher: The plea deal is the first step. The sentencing - and what, if anything, Cohen does or says to reduce his jail time - is the…",Tue Aug 21 19:51:12 +0000 2018
+152,0.128,0.197,0.229,0.573,BBC News (World),Aerial photos reveal the stark divide between rich and poor https://t.co/QuDZBkiAdO,Tue Aug 21 19:47:48 +0000 2018
+153,-0.8074,0.58,0.0,0.42,BBC News (World),US inmates nationwide strike to protest 'modern slavery' https://t.co/J6HcZdOLcx,Tue Aug 21 19:41:46 +0000 2018
+154,0.0,0.0,0.0,1.0,BBC News (World),Christopher Steele: Defamation case against dossier author dismissed https://t.co/lOnrSm6OZu,Tue Aug 21 19:08:04 +0000 2018
+155,-0.6597,0.231,0.0,0.769,BBC News (World),"RT @BBCJonSopel: Uncomfortable day for @realDonaldTrump. 
+Former lawyer and Mr Fixit, #MichaelCohen due in court to plead guilty to multipl…",Tue Aug 21 18:54:06 +0000 2018
+156,0.0,0.0,0.0,1.0,BBC News (World),Mystery gunman targets New York luxury high-rise https://t.co/lYGiOsWEHM,Tue Aug 21 18:45:31 +0000 2018
+157,-0.8689,0.494,0.0,0.506,BBC News (World),"Spain knifeman shot dead in Barcelona was ""gay and suicidal"" https://t.co/7xFYfkqHCv",Tue Aug 21 18:19:38 +0000 2018
+158,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCBreaking: Former Trump lawyer Michael Cohen has entered into a plea deal with US federal prosecutors in New York - US media https://…,Tue Aug 21 18:06:53 +0000 2018
+159,0.1779,0.1,0.131,0.769,BBC News (World),"RT @BBCBreaking: Oscar-winning Danny Boyle will no longer direct 25th Bond film due to ""creative differences"", producers say https://t.co/a…",Tue Aug 21 17:49:28 +0000 2018
+160,0.0,0.0,0.0,1.0,CBS News,Rep. Duncan Hunter and his wife indicted https://t.co/p5DszHv2ic https://t.co/76MhZOBFqa,Wed Aug 22 00:39:46 +0000 2018
+161,0.0,0.0,0.0,1.0,CBS News,Michael Cohen says he paid off women at Trump's direction to influence election https://t.co/sQYELkzvTb https://t.co/YyH7g1HadP,Wed Aug 22 00:19:51 +0000 2018
+162,0.0,0.0,0.0,1.0,CBS News,“It should have never happened…the immigration laws are such a disgrace”: President Trump appears to refer to Iowa… https://t.co/ckXgh5zD6a,Tue Aug 21 23:59:14 +0000 2018
+163,0.9186,0.0,0.433,0.567,CBS News,"“You are proud of our history. And unlike the NFL, you always honor and cherish our great American flag,” President… https://t.co/TXLRYlbmUc",Tue Aug 21 23:26:22 +0000 2018
+164,0.4404,0.0,0.139,0.861,CBS News,"HAPPENING NOW: President Trump speaks to supporters at West Virginia rally, just hours after key associates Paul Ma… https://t.co/BUdogu4Gw3",Tue Aug 21 23:21:27 +0000 2018
+165,-0.2732,0.11,0.0,0.89,CBS News,"Tom Hanks is among more than 1,000 people who sent birthday postcards to a 12-year-old girl battling leukemia… https://t.co/ei6hoLeMh1",Tue Aug 21 23:09:57 +0000 2018
+166,-0.872,0.344,0.0,0.656,CBS News,"Officials say murdered Iowa college student Mollie Tibbetts was allegedly killed by a 24-year-old man, who is an il… https://t.co/TvYpNu5z36",Tue Aug 21 23:06:24 +0000 2018
+167,-0.7845,0.257,0.0,0.743,CBS News,"RT @CBSEveningNews: Chris Watts, whose pregnant wife and two young daughters were found dead in a shallow grave and oil tanks, has confesse…",Tue Aug 21 23:01:30 +0000 2018
+168,0.5789,0.0,0.253,0.747,CBS News,"""Legally the Manafort convictions don't jeopardize the President, but they do fortify the special counsel..."":… https://t.co/ptvJrWElHV",Tue Aug 21 22:52:33 +0000 2018
+169,-0.7351,0.267,0.0,0.733,CBS News,"HER TOO? Asia Argento denies allegations that she sexually assaulted a teen boy, says accuser tried extorting her a… https://t.co/TsDaKHxh6V",Tue Aug 21 22:50:01 +0000 2018
+170,-0.743,0.27,0.0,0.73,CBS News,"RT @CBSEveningNews: Pres. Trump’s former personal attorney Michael Cohen pleaded guilty to eight felony counts on Tuesday, including campai…",Tue Aug 21 22:46:46 +0000 2018
+171,-0.296,0.199,0.11,0.691,CBS News,"Paul Manafort was found guilty of 8 of 18 charges today, marking the first conviction for Special Counsel Robert Mu… https://t.co/XucyOMnstf",Tue Aug 21 22:46:22 +0000 2018
+172,-0.4215,0.128,0.0,0.872,CBS News,LIVE UPDATES: President Trump is set to speak in West Virginia after Michael Cohen's guilty plea and Paul Manafort'… https://t.co/YFIU4A2mRn,Tue Aug 21 22:30:01 +0000 2018
+173,-0.2263,0.106,0.0,0.894,CBS News,"A class-action lawsuit against the marketing company Herbalife could involve more than 100,000 plaintiffs and up to… https://t.co/yYT6ALzAmm",Tue Aug 21 22:09:36 +0000 2018
+174,0.0,0.0,0.0,1.0,CBS News,Wyoming and Alaska have tight primary contests tonight. Here's what you need to know: https://t.co/byUn3JKF2z https://t.co/hFhiSi45CO,Tue Aug 21 21:50:45 +0000 2018
+175,-0.5256,0.152,0.0,0.848,CBS News,"WATCH: President Trump, arriving in West Virginia, says he feels ""very badly"" for Paul Manafort after he was found… https://t.co/zN2shgIYev",Tue Aug 21 21:43:35 +0000 2018
+176,-0.7269,0.289,0.0,0.711,CBS News,MOLLIE TIBBETTS CASE: A 24-year-old man has been charged for allegedly murdering the Iowa college student. Official… https://t.co/lf0NNSUfgf,Tue Aug 21 21:41:01 +0000 2018
+177,0.0,0.0,0.0,1.0,CBS News,"Two senators investigating Russian interference in the 2016 election say they have ""recently reengaged"" Michael Coh… https://t.co/jzqyOSm27I",Tue Aug 21 21:35:39 +0000 2018
+178,-0.6997,0.284,0.062,0.654,CBS News,"White House sources say there's worry in the building over the Paul Manafort guilty verdict. ""It's really hard to g… https://t.co/QOZrVM6hL6",Tue Aug 21 21:30:29 +0000 2018
+179,-0.6214,0.263,0.0,0.737,CBS News,"Michael Cohen is going to pay ""a very, very serious price"" after pleading guilty, Deputy U.S. Attorney Robert Khuza… https://t.co/Bkn7BdBAEs",Tue Aug 21 21:23:15 +0000 2018
+180,0.0,0.0,0.0,1.0,The New York Times,"“If anybody told me the story I’m telling,” he said, “I wouldn’t believe it.” 
+
+A widower met a younger woman on th… https://t.co/FG18uRX8nb",Wed Aug 22 00:32:08 +0000 2018
+181,-0.2023,0.184,0.0,0.816,The New York Times,Everyone charged in the Russia investigation so far https://t.co/0RtqheXzCU,Wed Aug 22 00:14:05 +0000 2018
+182,0.0,0.0,0.0,1.0,The New York Times,"Mollie Tibbetts, a 20-year-old student at the University of Iowa, was last seen a month ago while going for a jog i… https://t.co/6jAbckk1p2",Wed Aug 22 00:02:01 +0000 2018
+183,-0.875,0.37,0.0,0.63,The New York Times,"RT @nytvideo: Michael Cohen, President Trump's former fixer, pleaded guilty to tax evasion, bank fraud and campaign finance violations. Her…",Tue Aug 21 23:46:06 +0000 2018
+184,0.0,0.0,0.0,1.0,The New York Times,Breaking News: Facebook took down 652 accounts and pages after finding a new influence campaign ahead of the midter… https://t.co/iaKA4zG99e,Tue Aug 21 23:29:50 +0000 2018
+185,0.0,0.0,0.0,1.0,The New York Times,"RT @sheeraf: And our story is out! Facebook announcing a much bigger take down of accounts, pages and groups taking part in influence opera…",Tue Aug 21 23:26:15 +0000 2018
+186,0.0,0.0,0.0,1.0,The New York Times,"RT @sheeraf: This time, Facebook is naming names. They will announce that a coordinated influence campaign, some of which originated in Ira…",Tue Aug 21 23:26:02 +0000 2018
+187,-0.1531,0.127,0.1,0.773,The New York Times,"RT @karenyourish: (Jan.) Cohen: Trump denies affair
+↓
+(Feb.) Cohen: Ok, I paid Stormy
+↓
+(April) Trump: I didn’t know about payment
+↓
+(Tuesd…",Tue Aug 21 23:21:03 +0000 2018
+188,0.0,0.0,0.0,1.0,The New York Times,"Michael Cohen's plea came shortly before another blow to President Trump: his former campaign manager, Paul Manafor… https://t.co/LKedIWImpV",Tue Aug 21 23:09:18 +0000 2018
+189,-0.5267,0.246,0.119,0.634,The New York Times,Michael Cohen also pleaded guilty to multiple counts of tax evasion and bank fraud. Here's the plea agreement betwe… https://t.co/m3G5DMe9E1,Tue Aug 21 23:02:33 +0000 2018
+190,0.0,0.0,0.0,1.0,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/7yZNr6JgMB,Tue Aug 21 22:47:01 +0000 2018
+191,0.0,0.0,0.0,1.0,The New York Times,Here’s everything Trump’s team has said about the payment to Stormy Daniels https://t.co/xu8KIYsBP0,Tue Aug 21 22:32:06 +0000 2018
+192,0.6249,0.0,0.203,0.797,The New York Times,"RT @katierogers: ""One collateral effect of Mr. Cohen’s plea agreement is that it may allow Michael Avenatti, Ms. Clifford’s lawyer, to proc…",Tue Aug 21 22:17:03 +0000 2018
+193,0.0,0.0,0.0,1.0,The New York Times,Michael Cohen made the admission about President Trump’s role in the payments to an adult film actress and a former… https://t.co/ww2qUXJYHV,Tue Aug 21 22:02:00 +0000 2018
+194,0.0,0.0,0.0,1.0,The New York Times,"RT @peterbakernyt: Cohen says he paid off Stormy Daniels ""at the direction of the candidate,” meaning Trump. ⁦@WRashbaum⁩ ⁦@maggieNYT⁩ ⁦@be…",Tue Aug 21 21:47:06 +0000 2018
+195,0.0,0.0,0.0,1.0,The New York Times,"RT @jmartNYT: Point here being: Cohen wasn't just Trump's lawyer, handling zoning regs and such.  He was part of a tiny inner circle in yea…",Tue Aug 21 21:30:10 +0000 2018
+196,0.0,0.0,0.0,1.0,The New York Times,Breaking News: Michael Cohen said in court that he paid Stormy Daniels “at the direction of” Donald Trump for the p… https://t.co/68TdyFfmt8,Tue Aug 21 21:13:02 +0000 2018
+197,-0.5859,0.174,0.0,0.826,The New York Times,"RT @peterbakernyt: Paul Manafort, President Trump’s former campaign chairman, was convicted on Tuesday in his financial fraud trial, bringi…",Tue Aug 21 21:11:06 +0000 2018
+198,0.5106,0.0,0.193,0.807,The New York Times,"The verdict was a victory for the special counsel, Robert S. Mueller III, whose prosecutors built a case that Mr. M… https://t.co/dhWPMwsR5D",Tue Aug 21 20:56:00 +0000 2018
+199,-0.34,0.107,0.0,0.893,The New York Times,"Breaking News: The former Trump campaign chief Paul Manafort was convicted of eight counts of fraud, but the jury c… https://t.co/xlPtL3LyWq",Tue Aug 21 20:44:21 +0000 2018
+200,-0.4215,0.135,0.0,0.865,CNN,RT @CNNSitRoom: Michael Cohen's attorney Lanny Davis tweeted this after his client decided to plead guilty today https://t.co/ToXVnfWi0G ht…,Tue Aug 21 22:37:48 +0000 2018
+201,-0.4019,0.137,0.0,0.863,CNN,"“The President’s in a lot of trouble, Wolf, and we’re coming for him.” Stormy Daniels’ attorney @MichaelAvenatti re… https://t.co/yhAOrv8ZhD",Tue Aug 21 22:30:54 +0000 2018
+202,-0.5719,0.198,0.0,0.802,CNN,A father and son who recorded a terrifying video of their experience driving through a wildfire speak with… https://t.co/RxoGeMZzLz,Tue Aug 21 22:25:05 +0000 2018
+203,-0.2732,0.1,0.0,0.9,CNN,"JUST IN: Rep. Duncan Hunter and his wife, Margaret, indicted on charges related to the misuse of campaign funds… https://t.co/3s15bdXlX1",Tue Aug 21 22:22:26 +0000 2018
+204,-0.5719,0.198,0.0,0.802,CNN,A father and son who recorded a terrifying video of their experience driving through a wildfire speak with… https://t.co/oEDL8fAzo2,Tue Aug 21 22:14:47 +0000 2018
+205,0.0,0.0,0.0,1.0,CNN,"McClatchy, the publisher of more than two dozen daily newspapers across the country, announced that it will reduce… https://t.co/qc0h86eEwX",Tue Aug 21 22:10:33 +0000 2018
+206,0.0,0.0,0.0,1.0,CNN,READ: Former Trump lawyer Michael Cohen's plea deal https://t.co/F0cTZstKGd https://t.co/Mnf7tM8Cxj,Tue Aug 21 22:08:11 +0000 2018
+207,0.2449,0.064,0.109,0.827,CNN,Uber has agreed to pay 56 current and former employees $1.9 million to settle their claims of gender discrimination… https://t.co/WQFHrJnbeR,Tue Aug 21 22:00:40 +0000 2018
+208,-0.1027,0.06,0.0,0.94,CNN,"Former Trump lawyer Michael Cohen “decided that he was above the law, and for that he’s going to pay a very, very s… https://t.co/mz872lnHCJ",Tue Aug 21 21:56:28 +0000 2018
+209,-0.128,0.202,0.14,0.658,CNN,"JUST IN: After Paul Manafort is found guilty on 8 charges, President Trump praises his former campaign chairman as… https://t.co/qULdnwS7hU",Tue Aug 21 21:53:49 +0000 2018
+210,-0.886,0.394,0.0,0.606,CNN,"An undocumented immigrant has been charged with first-degree murder in the presumed death of Mollie Tibbetts, an Io… https://t.co/KYkgKeBMfD",Tue Aug 21 21:49:54 +0000 2018
+211,0.0,0.0,0.0,1.0,CNN,"RT @TheLeadCNN: Michael Cohen, Trump's former personal attorney, said in a plea deal that ""in coordination and at the direction of a candid…",Tue Aug 21 21:42:46 +0000 2018
+212,-0.4215,0.135,0.0,0.865,CNN,Former Trump lawyer Michael Cohen pleaded guilty to eight counts that include tax evasion and campaign finance viol… https://t.co/4OXAA4RQ82,Tue Aug 21 21:32:06 +0000 2018
+213,0.0,0.0,0.0,1.0,CNN,"Michael Cohen, Trump's former personal attorney, said in a plea deal that ""in coordination and at the direction of… https://t.co/Y4rHkzE9xL",Tue Aug 21 21:18:01 +0000 2018
+214,-0.7351,0.408,0.0,0.592,CNN,BREAKING: Michael Cohen pleads guilty to eight criminal counts https://t.co/51f0RlYxW5 https://t.co/sBnfRuVpFx,Tue Aug 21 21:16:47 +0000 2018
+215,-0.8316,0.37,0.0,0.63,CNN,"Former Trump campaign chairman Paul Manafort found guilty on:
+• 5 counts of tax fraud
+• 1 charge of hiding foreign… https://t.co/CteymWMFYO",Tue Aug 21 21:02:32 +0000 2018
+216,-0.765,0.268,0.0,0.732,CNN,BREAKING: Former Trump campaign chairman Paul Manafort found guilty on eight counts in fraud trial. The judge has d… https://t.co/laDLm7UD4J,Tue Aug 21 20:46:10 +0000 2018
+217,0.1531,0.138,0.17,0.691,CNN,A plane carrying Post Malone successfully made an emergency landing after experiencing issues during takeoff… https://t.co/BgEycoHWeb,Tue Aug 21 20:32:52 +0000 2018
+218,0.5106,0.0,0.13,0.87,CNN,RT @CNNMoney: Dow climbs 64 points. S&amp;P 500 notches highest close since late January. TD Ameritrade drops 7% after JPMorgan launches free o…,Tue Aug 21 20:25:09 +0000 2018
+219,0.2023,0.106,0.142,0.752,CNN,"Israel has relaxed its rules on gun permits, making up to 500,000 more civilians eligible to carry firearms… https://t.co/w9NH5tSIvY",Tue Aug 21 20:23:55 +0000 2018
+220,0.8626,0.0,0.551,0.449,fantastic ms.,"@Chisa omg, this is so great! thank you, Teresa! 😍",Sat Aug 04 03:05:32 +0000 2018
+221,0.5095,0.0,0.148,0.852,fantastic ms.,RT @andreabedini: I am extremely grateful to @fox for showing me today how technology became anti-human while we weren’t paying attention.…,Sat Aug 04 03:04:39 +0000 2018
+222,0.8395,0.0,0.562,0.438,fantastic ms.,"@andreabedini thank you, Andrea! I’m glad you’ve found it useful!",Sat Aug 04 03:04:32 +0000 2018
+223,0.4199,0.0,0.482,0.518,fantastic ms.,"@evandotly thank you, Evan! 🌸",Sat Aug 04 03:03:40 +0000 2018
+224,0.5106,0.0,0.191,0.809,fantastic ms.,RT @msandfor: #dddperth We must build ethical thinking into the way we build software https://t.co/F4QKYOVT1p,Sat Aug 04 03:03:16 +0000 2018
+225,0.0,0.0,0.0,1.0,fantastic ms.,RT @MichelePlayfair: Thread ☝️☝️ 8 principles of ethics in tech from @fox at #DDDPerth 👏,Sat Aug 04 03:03:07 +0000 2018
+226,0.6908,0.0,0.851,0.149,fantastic ms.,@samwilson yes :),Sat Aug 04 03:02:36 +0000 2018
+227,-0.2732,0.094,0.047,0.858,fantastic ms.,"RT @Amys_Kapers: Until anyone can survive and thrive on the web, no matter their background, gender, ethnicity, etc, the web isn't a welcom…",Sat Aug 04 03:01:15 +0000 2018
+228,0.3182,0.0,0.187,0.813,fantastic ms.,RT @MichelePlayfair: . @fox dropping the keynote truth bombs at #dddperth https://t.co/RKAgOSozMB,Sat Aug 04 03:00:55 +0000 2018
+229,0.6705,0.0,0.234,0.766,fantastic ms.,"RT @Mandy_Kerr: “Disruption isn’t a getaway free card to bypass laws, freedoms, moral compass, civil rights and human protections” - @fox #…",Sat Aug 04 03:00:48 +0000 2018
+230,0.4404,0.0,0.225,0.775,fantastic ms.,RT @Chisa: TOO much good stuff from @Fox @dddperth #dddperth https://t.co/XVI1DHGQdd,Sat Aug 04 02:43:00 +0000 2018
+231,-0.8714,0.368,0.0,0.632,fantastic ms.,RT @kylietimpani: I cannot applaud or amplify @fox’s message enough: the web is at a crisis point. Tech is unethical. Exclusionary. A platf…,Sat Aug 04 02:42:39 +0000 2018
+232,0.4215,0.0,0.259,0.741,fantastic ms.,RT @Caiwrote: @fox laying down some truths #DDDPerth https://t.co/o2eJNcU5UQ,Sat Aug 04 02:42:17 +0000 2018
+233,0.0,0.0,0.0,1.0,fantastic ms.,"RT @Mandy_Kerr: “Technology should be a mindful, quiet companion to our lives” - @fox #DDDPerth https://t.co/vB6wBAdqvr",Sat Aug 04 02:41:59 +0000 2018
+234,0.4404,0.0,0.127,0.873,fantastic ms.,"RT @LJKenward: Opening #DDDPerth is the incredible @fox with Towards a welcoming Web.
+
+The Pitfalls of Technology:
+
+Move fast and break thi…",Sat Aug 04 02:41:51 +0000 2018
+235,-0.1779,0.15,0.12,0.73,fantastic ms.,I forgot that Twitter is the epicentre of harassment and anxiety-inducing content. Back to sharing via Buffer and n… https://t.co/jiBOURbIKk,Fri Aug 03 08:49:38 +0000 2018
+236,-0.886,0.363,0.0,0.637,fantastic ms.,"RT @evan_greer: Sarah Jeong is a badass &amp; reverse racism is not a thing
+ Sarah Jeong is a badass &amp; reverse racism is not a thing
+ Sarah Jeo…",Fri Aug 03 08:20:43 +0000 2018
+237,0.8398,0.0,0.346,0.654,fantastic ms.,"It’s a privilege to be opening #dddperth tomorrow morning! Come and find out how to build an ethical, welcoming Web… https://t.co/eC1xTFZ3YR",Fri Aug 03 07:24:56 +0000 2018
+238,0.0,0.0,0.0,1.0,fantastic ms.,RT @verge: A note from the editors of The Verge https://t.co/B3wF4dNukg https://t.co/fhgvH9WlkC,Fri Aug 03 07:21:15 +0000 2018
+239,0.0,0.0,0.0,1.0,fantastic ms.,"What are your favourite newsletters covering the following subjects: tech, design, front-end, culture, design objects, travel, well-being?",Thu Aug 02 04:10:03 +0000 2018
+240,0.0,0.0,0.0,1.0,BBC News (World),"Eight-year-old girl survives flash flooding in southern Italy which claimed lives of 10 hikers
+
+https://t.co/TIX6UUmuQm",Tue Aug 21 16:21:51 +0000 2018
+241,-0.2023,0.184,0.0,0.816,BBC News (World),Two charged in US with spying for Iran https://t.co/VNHAPFwrRo,Tue Aug 21 16:19:04 +0000 2018
+242,0.0,0.0,0.0,1.0,BBC News (World),"RT @BBCWorld: #Brexit: UK and EU will negotiate continuously between now and March as talks enter the ""final phase"", EU's Michel Barnier sa…",Tue Aug 21 16:09:53 +0000 2018
+243,0.0,0.0,0.0,1.0,BBC News (World),"#Brexit: UK and EU will negotiate continuously between now and March as talks enter the ""final phase"", EU's Michel… https://t.co/XuEa2eGne9",Tue Aug 21 16:07:51 +0000 2018
+244,0.0,0.0,0.0,1.0,BBC News (World),Global Questions in India: Ask your question https://t.co/LcKdH4OG1Y,Tue Aug 21 15:45:07 +0000 2018
+245,0.3182,0.0,0.103,0.897,BBC News (World),"400,000 people have left Greece since 2008
+
+Here's more on how the country has been reshaped since its huge financi… https://t.co/yWFKKinmAf",Tue Aug 21 15:35:21 +0000 2018
+246,0.0,0.0,0.0,1.0,BBC News (World),"How Ireland has changed since the last time a pope visited 
+
+https://t.co/oCpafCE6NC  #PopeInIreland https://t.co/AI2SgWsGII",Tue Aug 21 15:32:25 +0000 2018
+247,-0.6369,0.47,0.0,0.53,BBC News (World),Bobi Wine protests: Uganda army sorry over beating journalists https://t.co/tXWDJ19Lkh,Tue Aug 21 15:24:48 +0000 2018
+248,-0.6597,0.351,0.0,0.649,BBC News (World),RT @BBCNorthAmerica: Mollie Tibbetts: Body feared to be missing Iowa jogger https://t.co/egCCc9sjmL,Tue Aug 21 15:22:46 +0000 2018
+249,-0.5256,0.145,0.0,0.855,BBC News (World),"RT @BBCNews: ""Russia's foreign policy under President Putin has made the world a more dangerous place"" - Jeremy Hunt delivers speech on his…",Tue Aug 21 14:40:57 +0000 2018
+250,-0.7096,0.457,0.0,0.543,BBC News (World),Nigeria police arrest traditional priest after laying curse https://t.co/t8sgXRux2r,Tue Aug 21 13:23:07 +0000 2018
+251,0.0,0.0,0.0,1.0,BBC News (World),"RT @BBCNews: Here come the girls! 🎤🎶💃
+
+#MTV #VMAs: Some of the stand-out moments
+
+More here: https://t.co/1ujitTa6fp https://t.co/DqxKaKSC3p",Tue Aug 21 13:13:00 +0000 2018
+252,0.0,0.0,0.0,1.0,BBC News (World),"RT @BBCNews: Papal visit: 3.7m Catholics in Ireland, but not enough priests https://t.co/QUHtv26mDJ",Tue Aug 21 13:12:47 +0000 2018
+253,-0.8481,0.535,0.0,0.465,BBC News (World),Chief al-Qaeda bomb maker 'killed in Yemen strike' - US reports https://t.co/7jfkfaSkPK,Tue Aug 21 12:37:03 +0000 2018
+254,0.0,0.0,0.0,1.0,BBC News (World),Nazi guard Palij deported by US to Germany https://t.co/xQdDq5Z3JJ,Tue Aug 21 11:20:06 +0000 2018
+255,0.5719,0.0,0.291,0.709,BBC News (World),Arsène Wenger to get honour from Liberia's George Weah https://t.co/PkqFl5tEbq,Tue Aug 21 11:18:02 +0000 2018
+256,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCNorthAmerica: US students topple Confederate soldier statue in North Carolina https://t.co/RH4XIYR5CC,Tue Aug 21 11:17:25 +0000 2018
+257,0.0,0.0,0.0,1.0,BBC News (World),Woman held after driving car into Irish government building in Dublin https://t.co/RQGBF0XC0J,Tue Aug 21 11:14:03 +0000 2018
+258,-0.6705,0.407,0.0,0.593,BBC News (World),Spain's 'wolf pack' sex attackers confronted at Seville pool https://t.co/dBzzIZcYff,Tue Aug 21 10:51:41 +0000 2018
+259,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCYaldaHakim: Chicken for dinner? This is how much cash you need in #Venezuela https://t.co/sZrJG0XLtq https://t.co/3nzynpa0qN,Tue Aug 21 10:29:27 +0000 2018
+260,-0.4215,0.149,0.0,0.851,CBS News,"President Trump's personal lawyer Michael Cohen has pleaded guilty to 8 counts, including making an excessive campa… https://t.co/QZWP0TNmzU",Tue Aug 21 21:17:06 +0000 2018
+261,0.0772,0.127,0.141,0.732,CBS News,The plane carrying Post Malone made a safe emergency landing after it blew two tires during takeoff.… https://t.co/0qtoafbYT7,Tue Aug 21 20:59:49 +0000 2018
+262,-0.886,0.354,0.0,0.646,CBS News,"Paul Manafort was found guilty of five tax fraud counts, two bank fraud counts and one count of not filing a requir… https://t.co/3yqwJTY9JC",Tue Aug 21 20:54:16 +0000 2018
+263,-0.0772,0.124,0.11,0.766,CBS News,"""An uncomfortable truth for this White House"": @MajorCBS breaks down the convictions of Trump campaign members afte… https://t.co/y2sU3LD4A1",Tue Aug 21 20:48:52 +0000 2018
+264,-0.4215,0.141,0.0,0.859,CBS News,"""Former Trump campaign chairman, Paul Manafort, has been found guilty of individual income tax return, filing a fal… https://t.co/4G8NjHeXC6",Tue Aug 21 20:43:33 +0000 2018
+265,-0.765,0.398,0.0,0.602,CBS News,BREAKING: Paul Manafort found guilty on 8 counts in fraud trial. https://t.co/Os3VlPOSuv https://t.co/TtPguSj69x,Tue Aug 21 20:40:56 +0000 2018
+266,-0.8555,0.343,0.0,0.657,CBS News,WATCH: The father of Shanann Watts broke down in tears as Christopher Watts appeared in court to face murder charge… https://t.co/mm0pu6HgvP,Tue Aug 21 20:40:08 +0000 2018
+267,-0.5063,0.227,0.075,0.699,CBS News,"BREAKING: Paul Manafort jury returns verdict on 8 counts in fraud trial, couldn't reach consensus on 10 counts… https://t.co/A1uBKueR3N",Tue Aug 21 20:37:40 +0000 2018
+268,-0.6486,0.202,0.0,0.798,CBS News,Prosecutors from six California counties announced Tuesday that the trial of the so-called Golden State Killer will… https://t.co/yqsF8UvKMZ,Tue Aug 21 20:21:00 +0000 2018
+269,0.0,0.0,0.0,1.0,CBS News,The National Weather Service has issued a hurricane watch for parts of Hawaii as Hurricane Lane barrels toward the… https://t.co/7vb3nJMpxf,Tue Aug 21 20:04:42 +0000 2018
+270,0.4939,0.0,0.176,0.824,CBS News,BREAKING: London-bound plane reportedly carrying rapper Post Malone lands safely at Stewart International Airport i… https://t.co/4To92RHudG,Tue Aug 21 20:01:15 +0000 2018
+271,0.0772,0.122,0.179,0.699,CBS News,"Most new mothers in the United States start out breastfeeding, but many stop sooner than recommended, a new federal… https://t.co/wOYV1ne57N",Tue Aug 21 19:50:50 +0000 2018
+272,0.0,0.0,0.0,1.0,CBS News,Madonna slammed for self-centered VMAs tribute to Aretha Franklin https://t.co/opQtMHAy2b https://t.co/dXW9vNo7kV,Tue Aug 21 19:34:35 +0000 2018
+273,0.0,0.0,0.0,1.0,CBS News,"Gender discrimination appears more prevalent in some parts of the country, stunting economic opportunities… https://t.co/vRYkI244Wo",Tue Aug 21 19:19:47 +0000 2018
+274,0.1027,0.1,0.117,0.783,CBS News,A New Jersey principal says a lack of clean clothing was a big reason students at his school were absent and faced… https://t.co/iTOVQEnvSl,Tue Aug 21 19:04:31 +0000 2018
+275,0.5719,0.0,0.156,0.844,CBS News,The pitch seen 'round the world: Sister Mary Jo Sobieck threw a perfect first pitch at before a Chicago White Sox g… https://t.co/H6Mcvh4426,Tue Aug 21 18:52:40 +0000 2018
+276,-0.4767,0.14,0.0,0.86,CBS News,"Kelly Marie Tran, who deleted all of her Instagram posts in June, has broken her silence about online harassment… https://t.co/LalcnKP1Z6",Tue Aug 21 18:30:55 +0000 2018
+277,0.0,0.0,0.0,1.0,CBS News,"JUST IN: Michael Cohen, President Trump's longtime personal attorney, has decided to take a plea deal with federal… https://t.co/aeFjH7J9B0",Tue Aug 21 18:15:13 +0000 2018
+278,0.6652,0.0,0.168,0.832,CBS News,Flight controllers have not heard from NASA's rover in Mars since June but are hopeful it will wake up and phone ho… https://t.co/XVVDTECJ5R,Tue Aug 21 18:00:30 +0000 2018
+279,-0.128,0.091,0.0,0.909,CBS News,Senator Elizabeth Warren (D-MA) introduces sweeping ethics bill that faces tough odds on Capitol Hill… https://t.co/4kmcFLm8yF,Tue Aug 21 17:44:53 +0000 2018
+280,0.6597,0.0,0.231,0.769,The New York Times,"RT @nytclimate: The Trump administration's proposed rollback of clean power rules will boost carbon emissions and contribute to some 1,400…",Tue Aug 21 20:43:05 +0000 2018
+281,0.0,0.0,0.0,1.0,The New York Times,Don Cherry was a leading pop singer of the 1950s. He performed at clubs and hotels by night while becoming one of A… https://t.co/zY7pwlyruI,Tue Aug 21 20:32:02 +0000 2018
+282,0.7351,0.0,0.237,0.763,The New York Times,"RT @MujMash: Their peace march began in a battered corner of Afghanistan. 
+
+They walk on. They learn. They help others learn, connecting fa…",Tue Aug 21 20:22:05 +0000 2018
+283,0.4939,0.113,0.257,0.631,The New York Times,"Like Bernie Sanders, he's fighting for single-payer health care, a $15 minimum wage and tuition-free public college… https://t.co/vu0dyXcjJx",Tue Aug 21 20:12:03 +0000 2018
+284,-0.765,0.268,0.0,0.732,The New York Times,Michael Cohen is expected to plead guilty to multiple counts of bank and tax fraud and campaign finance violations.… https://t.co/js8teLMuhl,Tue Aug 21 20:02:03 +0000 2018
+285,0.0,0.0,0.0,1.0,The New York Times,"Kelly Marie Tran, in her own words, is ""just getting started"" https://t.co/UveQNMZC4k",Tue Aug 21 19:53:04 +0000 2018
+286,0.5574,0.0,0.167,0.833,The New York Times,"Brett Kavanaugh, President Trump’s Supreme Court pick, told Senator Susan Collins that the Roe v. Wade is “settled… https://t.co/leehcJ61KQ",Tue Aug 21 19:43:04 +0000 2018
+287,0.0,0.0,0.0,1.0,The New York Times,RT @kimseverson: Here's our first take on @asaiargento's response to my story about her payment to a young actor who says she sexually assa…,Tue Aug 21 19:36:40 +0000 2018
+288,-0.8979,0.365,0.0,0.635,The New York Times,"In an unusual move, the suspected Golden State Killer will be tried on 13 counts of murder, in a trial that combine… https://t.co/oi8dxBvWzy",Tue Aug 21 19:34:03 +0000 2018
+289,-0.4404,0.153,0.0,0.847,The New York Times,"Asia Argento denied having sex with an underage actor, pushing back against a New York Times report https://t.co/AfwKjttllL",Tue Aug 21 19:27:11 +0000 2018
+290,0.4019,0.0,0.172,0.828,The New York Times,"After 116 years of captivity, animal crackers have been freed from their cages. https://t.co/G9HjoBmcmz",Tue Aug 21 19:13:04 +0000 2018
+291,0.0,0.0,0.0,1.0,The New York Times,A visual guide: How online trolls try to divide Americans in real life https://t.co/rQuTAvhpDy,Tue Aug 21 19:04:33 +0000 2018
+292,-0.4404,0.116,0.0,0.884,The New York Times,RT @itscaitlinhd: A family separation policy that was minimized and denied has been my life this summer (and part of it for about a year.)…,Tue Aug 21 18:54:13 +0000 2018
+293,0.0,0.0,0.0,1.0,The New York Times,It’s an issue that has bedeviled governors for decades. How should New Jersey manage bear-human relations? https://t.co/4McP5zlWJz,Tue Aug 21 18:53:03 +0000 2018
+294,-0.7351,0.298,0.0,0.702,The New York Times,A 51-year-old man has been sentenced to 17 years in prison after pleading guilty to traveling to the Dominican Repu… https://t.co/j5dLukKxOP,Tue Aug 21 18:43:04 +0000 2018
+295,0.0258,0.0,0.061,0.939,The New York Times,"Michael Cohen's plea deal with prosecutors does not include cooperation, two people familiar with the matter said https://t.co/QWBd5gUeUT",Tue Aug 21 18:37:18 +0000 2018
+296,0.4215,0.0,0.128,0.872,The New York Times,She was shot multiple times in the Parkland shooting. Now she's volunteering at the hospital that saved her life. https://t.co/KYrFaoP3dp,Tue Aug 21 18:33:04 +0000 2018
+297,0.1027,0.0,0.085,0.915,The New York Times,"Breaking News: Michael Cohen, President Trump’s former lawyer, reached a plea deal with prosecutors investigating p… https://t.co/xYyWSMHRzB",Tue Aug 21 18:24:01 +0000 2018
+298,-0.2732,0.158,0.113,0.729,The New York Times,RT @nytimesworld: A Nazi guard who entered the United States as a war refugee in 1949 has been deported to Germany https://t.co/2HOBMK83Yo,Tue Aug 21 18:23:03 +0000 2018
+299,0.3818,0.088,0.192,0.72,The New York Times,"No one is sure whether liquor can convey ""terroir"" like wine does. But distillers are seeking, and selling, that se… https://t.co/ZyTBPdzbU6",Tue Aug 21 18:13:03 +0000 2018
+300,-0.5574,0.159,0.0,0.841,CNN,"""It wasn't their words, it's that I started to believe them."" 'Star Wars' actress Kelly Marie Tran made headlines w… https://t.co/JgCvf0P4Q4",Tue Aug 21 20:20:46 +0000 2018
+301,-0.0516,0.066,0.0,0.934,CNN,These mothers are running for office to 'leave the casket open' | By Cedric L. Alexander via @CNNOpinion… https://t.co/vBMki1KzlL,Tue Aug 21 20:04:42 +0000 2018
+302,0.0,0.0,0.0,1.0,CNN,"RT @CNNMoney: Can Trump bend the Fed to his will? 
+
+Rick Rieder, BlackRock's chief investment officer of global fixed income, will discuss…",Tue Aug 21 20:02:07 +0000 2018
+303,0.4215,0.0,0.123,0.877,CNN,A plane bound for the United Kingdom was diverted after it blew two tires upon takeoff; Rapper Post Malone is among… https://t.co/GjDl5Xaidy,Tue Aug 21 19:55:28 +0000 2018
+304,-0.6369,0.271,0.0,0.729,CNN,"Donald Trump doesn't appear to have any idea what a ""perjury trap"" is | Analysis by @CillizzaCNN… https://t.co/R9QwhzUDgx",Tue Aug 21 19:45:40 +0000 2018
+305,-0.4767,0.147,0.0,0.853,CNN,This police officer heard the sound of a crying baby in a children's hospital in Argentina. She had recently become… https://t.co/foRJxgmq4z,Tue Aug 21 19:41:39 +0000 2018
+306,0.0,0.0,0.0,1.0,CNN,Congress still doesn't know what Trump said to Putin in Helsinki https://t.co/FH5gmNg73S https://t.co/pE5iIZJfHt,Tue Aug 21 19:20:16 +0000 2018
+307,-0.3818,0.191,0.0,0.809,CNN,Serta Simmons' plan to fight Casper: Buy Tuft &amp; Needle https://t.co/uidipJyIjv https://t.co/UUGv826XOa,Tue Aug 21 19:09:10 +0000 2018
+308,0.5994,0.0,0.259,0.741,CNN,Ruth + Marty = #RelationshipGoals. You may know Justice Ginsburg’s legal achievements…now meet the man who cheered… https://t.co/zDs9QbEq51,Tue Aug 21 19:00:37 +0000 2018
+309,-0.875,0.357,0.0,0.643,CNN,"RT @CNNnewsroom: BREAKING: ""Michael Cohen is expected to plead guilty to multiple counts of campaign finance violations, tax fraud and bank…",Tue Aug 21 18:54:29 +0000 2018
+310,-0.875,0.4,0.0,0.6,CNN,"BREAKING: Ex-Trump attorney Michael Cohen is expected to plead guilty to campaign finance violations, tax fraud and… https://t.co/1xyb0J4k6X",Tue Aug 21 18:52:26 +0000 2018
+311,-0.5719,0.288,0.136,0.576,CNN,"When students were bullied because of dirty clothes, this principal installed a free laundromat at their school… https://t.co/2vRjhtnzMM",Tue Aug 21 18:40:06 +0000 2018
+312,0.4019,0.0,0.252,0.748,CNN,Being vegetarian doesn't necessarily mean you're eating healthy https://t.co/zGoCqwNk3i,Tue Aug 21 18:30:15 +0000 2018
+313,0.6908,0.0,0.263,0.737,CNN,"President Trump's Supreme Court nominee, Judge Brett Kavanaugh, told Republican Sen. Susan Collins he agreed that R… https://t.co/fUcUrBhavV",Tue Aug 21 18:20:04 +0000 2018
+314,0.0,0.0,0.0,1.0,CNN,Cannabis stocks soar to new highs https://t.co/NhukWCegeh https://t.co/m6kGg746q7,Tue Aug 21 18:10:05 +0000 2018
+315,-0.657,0.196,0.0,0.804,CNN,A son recorded this terrifying attempt to drive himself and his father out of a wildfire in Montana's Glacier Natio… https://t.co/bRmoy8BhK4,Tue Aug 21 18:00:07 +0000 2018
+316,0.0,0.0,0.0,1.0,CNN,"Sanrio, the Japanese company behind the Hello Kitty phenomenon, has a ""secret"" in its Los Angeles location. Take a… https://t.co/AO7jIM0rG1",Tue Aug 21 17:54:46 +0000 2018
+317,-0.6705,0.282,0.0,0.718,CNN,"A Catholic priest in Pennsylvania is facing criminal charges, the Lehigh County district attorney's office said… https://t.co/ooTcw9qhOC",Tue Aug 21 17:50:06 +0000 2018
+318,0.0,0.0,0.0,1.0,CNN,"The University of Scranton, a Jesuit university in Pennsylvania, is removing the names of three bishops from school… https://t.co/Fsab7fgXlU",Tue Aug 21 17:40:06 +0000 2018
+319,-0.7579,0.302,0.0,0.698,CNN,"Another hurricane is threatening to impact Hawaii this week, as dangerous Category 4 Hurricane Lane approaches just… https://t.co/0UCyDI3ely",Tue Aug 21 17:30:13 +0000 2018
+320,0.7644,0.0,0.524,0.476,fantastic ms.,"@soxyface Thank you, it was lovely meeting you! 💐",Wed Aug 01 22:42:57 +0000 2018
+321,0.7702,0.0,0.282,0.718,fantastic ms.,"@sentience Thank you! I really enjoyed yours too! 
+
+I’m doing a 45-min version at @DDDPerth this weekend that has m… https://t.co/Drn3ODuLx2",Wed Aug 01 21:37:21 +0000 2018
+322,0.0,0.0,0.0,1.0,fantastic ms.,@soxyface @MsJonesInSydney here are the slides with all the references. 🙇🏻‍♀️ I will publish a transcript next week! https://t.co/EcSUpoi0Rw,Wed Aug 01 06:18:32 +0000 2018
+323,0.4199,0.0,0.482,0.518,fantastic ms.,@marcosc thank you! 🙇🏻‍♀️,Wed Aug 01 06:16:28 +0000 2018
+324,0.4926,0.064,0.163,0.773,fantastic ms.,"RT @MsJonesInSydney: The theme at #Code18 #CodeLeaders is strong! @fox is currently highlighting algorithmic bias, tech ethics and exclusio…",Wed Aug 01 06:13:13 +0000 2018
+325,0.5187,0.072,0.206,0.721,fantastic ms.,"@DivZero_ indeed, it’s all challenging and often depressing, but if we don’t take action it won’t get any better. i… https://t.co/lldW02OHPv",Wed Aug 01 06:12:58 +0000 2018
+326,0.4215,0.0,0.157,0.843,fantastic ms.,"So refreshing to hear @johnallsopp reminding about inclusion, diversity and sharing knowledge around these subjects… https://t.co/Ink4d4W7m5",Wed Aug 01 02:35:19 +0000 2018
+327,-0.25,0.246,0.203,0.551,fantastic ms.,"Well, @msjonesinsydney definitely knows how to drop the mic on horrifying diversity and inclusion stats. 
+
+A fantas… https://t.co/GeLolnfgEm",Wed Aug 01 02:32:40 +0000 2018
+328,-0.296,0.423,0.0,0.577,fantastic ms.,@benschwarz nooo pressure whatsoever,Wed Aug 01 02:18:01 +0000 2018
+329,0.0,0.0,0.0,1.0,fantastic ms.,That moment when a white guy says ”there aren’t many women developers” and you cross eyes with any other woman in t… https://t.co/033oMUbEl8,Wed Aug 01 02:03:31 +0000 2018
+330,0.5574,0.0,0.419,0.581,fantastic ms.,@Mandy_Kerr the winds have been gracious,Wed Aug 01 01:53:15 +0000 2018
+331,0.4199,0.0,0.358,0.642,fantastic ms.,@soxyface thank you! I’m hydrating ⛲️,Tue Jul 31 23:27:35 +0000 2018
+332,-0.4019,0.119,0.0,0.881,fantastic ms.,"I’ll be speaking at @webdirections Code Leaders today at 3.30pm (if I don’t lose my voice in the meantime 😂🤧).
+
+Com… https://t.co/oh0yLrEE0F",Tue Jul 31 22:58:07 +0000 2018
+333,0.6924,0.0,0.222,0.778,fantastic ms.,One of the reasons I’m so excited to be a part of @helpscout is the commitment to building an inclusive culture wit… https://t.co/6H6GDJ1TON,Thu Jul 19 22:21:10 +0000 2018
+334,0.0,0.0,0.0,1.0,fantastic ms.,More Boston snaps. https://t.co/NCcWPSV8yX,Wed Jul 11 21:30:06 +0000 2018
+335,0.4926,0.0,0.144,0.856,fantastic ms.,"RT @helpscout: Said it once, we'll keep saying it: we are thrilled to add you to the team @fox! 🦊 https://t.co/bKc6GSq6tR",Mon Jul 09 23:35:49 +0000 2018
+336,-0.0516,0.441,0.412,0.147,fantastic ms.,"@mattopsahl lol, offensive",Mon Jul 09 20:12:02 +0000 2018
+337,0.5707,0.0,0.48,0.52,fantastic ms.,"@tompedals yay, hello, hi! 👋🏻",Mon Jul 09 19:43:29 +0000 2018
+338,0.4404,0.0,0.592,0.408,fantastic ms.,"@madalynrose thanks, Madalyn. 💖",Mon Jul 09 19:43:13 +0000 2018
+339,0.4738,0.0,0.507,0.493,fantastic ms.,"@andymcmillan weee, thank you!!",Mon Jul 09 19:43:04 +0000 2018
+340,0.0,0.0,0.0,1.0,BBC News (World),In pictures: North and South Korean relatives reunited after six decades apart https://t.co/Oysq0rJwpH https://t.co/u7hDnKvzcH,Tue Aug 21 10:28:26 +0000 2018
+341,-0.802,0.375,0.0,0.625,BBC News (World),"RT @BBCNews: Catering boss, killed in Sydney seaplane crash, 'leaves £41m' to Oxfam https://t.co/1JAF4C4l0p",Tue Aug 21 09:50:56 +0000 2018
+342,0.0,0.0,0.0,1.0,BBC News (World),"Mob burned Indian woman's house, paraded her naked and beat her https://t.co/MQAEGo06IS",Tue Aug 21 09:23:05 +0000 2018
+343,0.3182,0.0,0.099,0.901,BBC News (World),RT @BBCSteveR: Today one Russian paper prints the naked truth about the Russian economy (and it's quite revealing.) Here's my latest Russia…,Tue Aug 21 09:02:40 +0000 2018
+344,0.0,0.0,0.0,1.0,BBC News (World),Peter Dutton: The ex-policeman who nearly ousted Australia's PM https://t.co/zW7OhUp9Nx,Tue Aug 21 08:09:46 +0000 2018
+345,0.5994,0.0,0.353,0.647,BBC News (World),Comedian Jon Stewart rescues goats from New York subway tracks https://t.co/XVB98t0vCh,Tue Aug 21 08:04:05 +0000 2018
+346,0.1531,0.0,0.068,0.932,BBC News (World),"RT @BBCNewsAsia: This is Ahn Jung-soon from North Korea. She's feeding her South Korean father. 
+
+Just one of many emotional Korea family r…",Tue Aug 21 07:57:47 +0000 2018
+347,-0.3818,0.133,0.0,0.867,BBC News (World),"RT @bbcworldservice: Why this bloodless testing device could be a game-changer in the fight against malaria.
+
+Full story: https://t.co/3Nkr…",Tue Aug 21 07:53:02 +0000 2018
+348,0.0,0.0,0.0,1.0,BBC News (World),In pictures: The North and South Korean relatives meeting for the first time in six decades https://t.co/7Rnw9W9yPA,Tue Aug 21 07:34:31 +0000 2018
+349,0.0,0.0,0.0,1.0,BBC News (World),Rockets hit Kabul's diplomatic area during Eid speech https://t.co/jR5HrrpXUJ,Tue Aug 21 06:14:27 +0000 2018
+350,0.0772,0.0,0.157,0.843,BBC News (World),Quit-smoking helpline number on India cigarette packs https://t.co/zAGWa6wflw,Tue Aug 21 05:42:29 +0000 2018
+351,0.0,0.0,0.0,1.0,BBC News (World),Papal visit: Ireland's Catholic Church in graphs https://t.co/avPEadihqT,Tue Aug 21 05:31:37 +0000 2018
+352,-0.296,0.268,0.0,0.732,BBC News (World),Radioactive device goes missing in Malaysia https://t.co/AKnTEXk0fk,Tue Aug 21 04:23:46 +0000 2018
+353,-0.7906,0.533,0.0,0.467,BBC News (World),Mueller inquiry: Trump fears 'perjury trap' in Russia inquiry https://t.co/bQ3WjRMuQS,Tue Aug 21 03:51:35 +0000 2018
+354,0.0,0.0,0.0,1.0,BBC News (World),"Gay sex is criminalised in Singapore. 
+
+And the late Michael Jackson's daughter has been slammed for being ""hypocri… https://t.co/4bQokRrPuU",Tue Aug 21 03:13:20 +0000 2018
+355,-0.7906,0.241,0.0,0.759,BBC News (World),RT @soutikBBC: My report on how children in India’s most socially developed state have become the foot soldiers in the war against fake new…,Tue Aug 21 02:44:01 +0000 2018
+356,0.5994,0.0,0.329,0.671,BBC News (World),"RT @BBCAfrica: My friend Mohamed, the dry cleaner of Mogadishu https://t.co/LuMty59mQu https://t.co/UyM3occ7zO",Tue Aug 21 01:45:24 +0000 2018
+357,-0.4007,0.283,0.166,0.551,BBC News (World),Venezuela crisis: More migrants cross into Brazil despite attacks https://t.co/YwegxLRRon,Tue Aug 21 01:41:55 +0000 2018
+358,0.0772,0.0,0.157,0.843,BBC News (World),Malcolm Turnbull: Australian PM survives leadership challenge https://t.co/8e0cvQSPeb,Tue Aug 21 00:00:19 +0000 2018
+359,0.0,0.0,0.0,1.0,BBC News (World),Why the Kerala floods proved so deadly https://t.co/OM8GuAlhye,Mon Aug 20 23:29:48 +0000 2018
+360,0.0,0.0,0.0,1.0,CBS News,Sexist attitudes in the U.S. are most prevalent in the Southeast and least prevalent on the West Coast and in New E… https://t.co/tTbjj5UgE3,Tue Aug 21 17:30:36 +0000 2018
+361,0.0,0.0,0.0,1.0,CBS News,Plane diverted to Massachusetts after it blew two tires as it took off Monday morning from New Jersey's Teterboro A… https://t.co/tcolCPHv68,Tue Aug 21 17:16:46 +0000 2018
+362,0.5267,0.0,0.188,0.812,CBS News,Trump's former lawyer Michael Cohen is engaged in negotiations for a plea deal that could be resolved as soon as to… https://t.co/T1VsDDioDv,Tue Aug 21 17:09:34 +0000 2018
+363,0.8115,0.0,0.33,0.67,CBS News,"SHARK RESCUE: Usually people swim away from sharks, but this diving instructor swam towards one, and helped save it… https://t.co/sZ31O6fWr7",Tue Aug 21 17:00:27 +0000 2018
+364,-0.1531,0.194,0.131,0.675,CBS News,"Two brothers, ages 3 and 1, survived alone for about two days after they were passengers in a single-car wreck that… https://t.co/V4GfITV7Ol",Tue Aug 21 16:46:28 +0000 2018
+365,-0.4404,0.116,0.0,0.884,CBS News,"THE TIME OF OUR LIVES: Dirty Dancing was released 31 years ago today. All this time has passed and still, nobody pu… https://t.co/zWJU4ReX61",Tue Aug 21 16:30:09 +0000 2018
+366,0.0,0.0,0.0,1.0,CBS News,"Rare ""unicorn"" plant discovered in Maine https://t.co/sktKiIkeRp https://t.co/1ldwxVnais",Tue Aug 21 16:14:38 +0000 2018
+367,-0.765,0.248,0.0,0.752,CBS News,"WATCH: Chris Watts, the Colorado man accused of killing his wife and two young daughters, is in court for an arraig… https://t.co/f3a0vKOedX",Tue Aug 21 16:12:46 +0000 2018
+368,0.0,0.0,0.0,1.0,CBS News,WATCH: The last known Nazi in the U.S. has been deported after living for decades in New York City… https://t.co/2xPGuNAVkf,Tue Aug 21 16:00:13 +0000 2018
+369,0.4019,0.0,0.153,0.847,CBS News,"Animal crackers freed from cages as boxes get new look, following letter from PETA https://t.co/zxgQgRg8Y7 https://t.co/dZ7laIPQa9",Tue Aug 21 15:44:31 +0000 2018
+370,0.1531,0.0,0.103,0.897,CBS News,"""So, so thankful"": Demi Lovato's sister marks singer's 26th birthday with emotional tribute https://t.co/pppS0XHpO1 https://t.co/LUFaIi1r4u",Tue Aug 21 15:29:42 +0000 2018
+371,-0.5859,0.257,0.0,0.743,CBS News,U.K. asks for more sanctions on Russia after poisoning case https://t.co/Ao9SouPLfL https://t.co/sDZdWTV6OU,Tue Aug 21 15:14:40 +0000 2018
+372,0.0,0.0,0.0,1.0,CBS News,FBI investigates computer hacks in two California House campaigns https://t.co/viW2LeYAZq https://t.co/NvuxZk1Ja9,Tue Aug 21 15:00:01 +0000 2018
+373,0.2263,0.0,0.137,0.863,CBS News,Drake surprises 11-year-old girl awaiting heart transplant at a Chicago children's hospital https://t.co/0VmkoZ8Pqy https://t.co/VWOp4O0hTU,Tue Aug 21 14:44:32 +0000 2018
+374,0.0,0.0,0.0,1.0,CBS News,Army reinstates at least three dozen discharged immigrants https://t.co/rgDfkj4Gc0 https://t.co/KYUzB6ITRw,Tue Aug 21 14:29:45 +0000 2018
+375,0.0,0.0,0.0,1.0,CBS News,President Trump to rescind Obama-era coal emissions standards https://t.co/gUREfQyfR5 https://t.co/IYTQqWrxCt,Tue Aug 21 14:14:50 +0000 2018
+376,0.4019,0.0,0.162,0.838,CBS News,"Survey finds support for charter schools, private school vouchers up over past year https://t.co/0jeCla8sly https://t.co/hkTx7K6bRp",Tue Aug 21 13:59:35 +0000 2018
+377,-0.7579,0.277,0.0,0.723,CBS News,"Pope Francis to meet victims of sexual abuse in Ireland, where the Catholic church's credibility has been devastate… https://t.co/KLNGFArulz",Tue Aug 21 13:44:30 +0000 2018
+378,0.296,0.0,0.121,0.879,CBS News,Aretha Franklin's granddaughter shares home video of Queen of Soul singing just months before her death… https://t.co/8sjsPRMZat,Tue Aug 21 13:29:46 +0000 2018
+379,0.0,0.0,0.0,1.0,CBS News,"""Almost relief"": Lawyer describes Harvey Weinstein's reaction to Asia Argento report https://t.co/KRdASq2ibh https://t.co/i13rIsKwks",Tue Aug 21 13:29:46 +0000 2018
+380,0.0,0.0,0.0,1.0,The New York Times,"RT @nytimesworld: Russia has signed a military accord with the Central African Republic, where three Russian journalists were recently murd…",Tue Aug 21 18:03:03 +0000 2018
+381,0.0,0.0,0.0,1.0,The New York Times,"In the debate over diversity and admissions to New York City’s prestigious high schools, Hunter College High School… https://t.co/6Err30PBzR",Tue Aug 21 17:53:05 +0000 2018
+382,-0.7943,0.243,0.0,0.757,The New York Times,"RT @Max_Fisher: What if Facebook’s effects are broader and more pernicious than hate speech or fake news?
+
+What if it scrambles the way ent…",Tue Aug 21 17:43:04 +0000 2018
+383,0.5106,0.0,0.171,0.829,The New York Times,"Ben Carson wants to encourage mixed-income, multifamily development as a way of making housing more affordable. But… https://t.co/9bCJA4K70j",Tue Aug 21 17:33:06 +0000 2018
+384,-0.6808,0.196,0.0,0.804,The New York Times,RT @MWilsonNYT: Jerry turned 90 this month. He lives alone on the Upper East Side of Manhattan.  His longtime wife died years ago. His seco…,Tue Aug 21 17:23:06 +0000 2018
+385,-0.2263,0.095,0.0,0.905,The New York Times,"A Confederate statue known as '""Silent Sam'"" at the University of North Carolina was brought down by protesters who… https://t.co/oi3HfFg3DW",Tue Aug 21 17:13:02 +0000 2018
+386,0.7003,0.0,0.216,0.784,The New York Times,"RT @craftingmystyle: For the latest round of the ""Why I Love"" series, I got to gush about the emotional third act moment in COCO: https://t…",Tue Aug 21 17:03:05 +0000 2018
+387,-0.1531,0.105,0.077,0.818,The New York Times,"A year ago, Amazon bought Whole Foods. The deal the grocery world, setting off a frenzy of deals and partnerships t… https://t.co/qxmy1iVhuk",Tue Aug 21 16:53:03 +0000 2018
+388,0.1877,0.0,0.111,0.889,The New York Times,RT @NYTStyles: Do you live for Susan Miller's explanations of life? You're not alone. https://t.co/mqoTmSLzh7,Tue Aug 21 16:43:04 +0000 2018
+389,0.0,0.0,0.0,1.0,The New York Times,Faced with new evidence that Russian hackers are targeting conservative American research groups and Senate web pag… https://t.co/sNDsO7eqWv,Tue Aug 21 16:33:07 +0000 2018
+390,-0.5994,0.157,0.0,0.843,The New York Times,"RT @EricLiptonNYT: Here is an extraordinary/blunt admission from Trump-era EPA: between 470 &amp; 1,400 people in the US will die prematurely E…",Tue Aug 21 16:23:04 +0000 2018
+391,0.0,0.0,0.0,1.0,The New York Times,"From our colleagues at @wirecutter, a New York Times company: 
+ https://t.co/Bx0nrsoFB7",Tue Aug 21 16:22:24 +0000 2018
+392,0.0,0.0,0.0,1.0,The New York Times,Uber has finally found a chief financial officer as it advances toward an initial public offering. It hasn't had on… https://t.co/pZejgbrEUV,Tue Aug 21 16:13:03 +0000 2018
+393,0.0,0.0,0.0,1.0,The New York Times,The jury in the Paul Manafort trial asked a question that suggested it may be divided on one of the 18 counts broug… https://t.co/W8jhGixh8j,Tue Aug 21 16:03:03 +0000 2018
+394,0.0,0.0,0.0,1.0,The New York Times,"With colonies of honeybees diminishing, farmers are asking: What else can pollinate our food? https://t.co/JTsOK0I7fL",Tue Aug 21 15:53:05 +0000 2018
+395,-0.7096,0.269,0.0,0.731,The New York Times,"50 years ago, the Soviet invasion of Czechoslovakia crushed the Prague Spring, laying bare the totalitarian nature… https://t.co/Ic2MYwN3vG",Tue Aug 21 15:43:05 +0000 2018
+396,-0.4019,0.217,0.102,0.681,The New York Times,RT @NYTNational: A group of lawsuits claims that states are violating their own constitutions by giving children a segregated or underfunde…,Tue Aug 21 15:33:07 +0000 2018
+397,0.296,0.0,0.144,0.856,The New York Times,"Kelly Marie Tran: ""I want to live in a world where children of color don't spend their entire adolescence wishing t… https://t.co/CklODKVhbg",Tue Aug 21 15:23:03 +0000 2018
+398,0.0,0.0,0.0,1.0,The New York Times,"“Lady, you seem talented,"" an immigration official in Dubai told our reporter @nytmargaret. ""Why did you marry a ma… https://t.co/8eUroRYAmE",Tue Aug 21 15:13:04 +0000 2018
+399,0.7269,0.0,0.321,0.679,The New York Times,"President Trump just endorsed Foster Friess. His campaign seemed like a longshot, but there's good reason to believ… https://t.co/T7qDsdgYwM",Tue Aug 21 15:02:02 +0000 2018
+400,0.0,0.0,0.0,1.0,CNN,Trump claims 'even James Clapper' thinks Brennan has 'gone totally off the rails' https://t.co/seq7WsfL94 https://t.co/PxjIlv55L1,Tue Aug 21 17:20:07 +0000 2018
+401,-0.8074,0.454,0.0,0.546,CNN,BREAKING: Michael Cohen in talks to plead guilty to criminal charges https://t.co/9MD154xoh5 https://t.co/krFWPK55wW,Tue Aug 21 17:10:20 +0000 2018
+402,0.1531,0.0,0.11,0.89,CNN,"Iran unveils what it describes as the country's ""first domestically manufactured"" fighter jet… https://t.co/4QWU9qEddd",Tue Aug 21 17:00:12 +0000 2018
+403,0.0,0.0,0.0,1.0,CNN,Here's what's actually going on behind closed doors at the Manafort trial | Analysis by @CillizzaCNN… https://t.co/doUpKwEBXA,Tue Aug 21 16:50:08 +0000 2018
+404,0.6908,0.0,0.34,0.66,CNN,Amazon has hired a top cardiologist as it broadens its involvement in the health care industry… https://t.co/PJLSOln03g,Tue Aug 21 16:40:12 +0000 2018
+405,0.0,0.0,0.0,1.0,CNN,"After more than a century, the iconic Barnum's Animal Crackers box has gotten a redesign. Instead of animals caged… https://t.co/rWgpeLXzOH",Tue Aug 21 16:30:03 +0000 2018
+406,0.0,0.0,0.0,1.0,CNN,Just how much has the internet changed art? | via @CNNstyle https://t.co/2hYZhsUvta https://t.co/4mycWtOpPx,Tue Aug 21 16:30:00 +0000 2018
+407,0.0,0.0,0.0,1.0,CNN,The judge in the trial of former Trump campaign chairman Paul Manafort urges the jury to keep deliberating after it… https://t.co/IvmIjX8oy4,Tue Aug 21 16:19:50 +0000 2018
+408,0.0,0.13,0.13,0.741,CNN,This 2-year-old girl battling leukemia got a surprise daddy-daughter dance in her hospital room… https://t.co/GNh1VEAusM,Tue Aug 21 16:10:50 +0000 2018
+409,-0.7579,0.265,0.0,0.735,CNN,"Pope Francis will meet privately with victims of clerical sexual abuse during his visit to Ireland this weekend, th… https://t.co/Hts333WZCH",Tue Aug 21 16:00:11 +0000 2018
+410,-0.1027,0.076,0.0,0.924,CNN,Goldman Sachs will now pay for women to ship breast milk home when they're traveling for business… https://t.co/Ip5TEt62TD,Tue Aug 21 15:50:10 +0000 2018
+411,-0.8126,0.28,0.0,0.72,CNN,"For more than three decades, the Catholic Church has been rocked by sex abuse scandals spanning the globe. And for… https://t.co/F6daRSoiDL",Tue Aug 21 15:40:07 +0000 2018
+412,0.0,0.0,0.0,1.0,CNN,Meet the artist molding Africa's first ever wax museum from the ground up https://t.co/w3fYoDHLus https://t.co/FsIQJgQ29m,Tue Aug 21 15:40:00 +0000 2018
+413,-0.7717,0.391,0.0,0.609,CNN,Authorities are searching for a man who's suspected of threatening to shoot President Trump https://t.co/q9leNxuavG https://t.co/KgRxc45Kbt,Tue Aug 21 15:30:10 +0000 2018
+414,0.4019,0.0,0.197,0.803,CNN,Can the Republican Party survive Donald Trump? | Analysis by @CillizzaCNN https://t.co/eERofj0EzF https://t.co/L34eQBhdYV,Tue Aug 21 15:20:03 +0000 2018
+415,0.4404,0.0,0.209,0.791,CNN,Rose McGowan facing backlash for urging 'be gentle' with Argento https://t.co/7juvIBBYzy https://t.co/hjzrPqrHF4,Tue Aug 21 15:10:05 +0000 2018
+416,0.0,0.0,0.0,1.0,CNN,Authorities in Iowa investigating the disappearance of 20-year-old Mollie Tibbetts say a body has been found in rur… https://t.co/vG29yZhEnd,Tue Aug 21 15:05:05 +0000 2018
+417,0.0,0.0,0.0,1.0,CNN,"This is the moment a 92-year-old woman saw her son in North Korea after 68 years apart. 
+
+They were separated in th… https://t.co/yC59xOVCb8",Tue Aug 21 15:00:01 +0000 2018
+418,0.0,0.0,0.0,1.0,CNN,"An unsealed affidavit reveals details of what unfolded during police interactions with Chris Watts, the Colorado ma… https://t.co/o5J0S5m9Nj",Tue Aug 21 14:50:06 +0000 2018
+419,0.2023,0.0,0.096,0.904,CNN,Michigan's top public health official will stand trial for two deaths connected with the Flint water crisis… https://t.co/1miSp1gUVV,Tue Aug 21 14:40:13 +0000 2018
+420,0.0,0.0,0.0,1.0,fantastic ms.,@jennwrites 💖💖💖,Mon Jul 09 19:42:56 +0000 2018
+421,0.8718,0.0,0.712,0.288,fantastic ms.,@paulozoom thank you! it is awesome :),Mon Jul 09 19:42:42 +0000 2018
+422,0.3612,0.0,0.455,0.545,fantastic ms.,@brianloveswords thank you 🙇🏻‍♀️,Mon Jul 09 19:42:27 +0000 2018
+423,0.4926,0.0,0.615,0.385,fantastic ms.,"@patrickhamann thanks, Patrick! 💖",Mon Jul 09 19:42:10 +0000 2018
+424,0.2942,0.17,0.297,0.532,fantastic ms.,@lynnandtonic thank you and I will miss you!,Mon Jul 09 19:41:56 +0000 2018
+425,-0.2075,0.155,0.072,0.773,fantastic ms.,"@patrickbjohnson nah, only here for a week. travelling alone so don’t want to make it a very long trip (hashtag anx… https://t.co/sdzeg7AUmr",Mon Jul 09 17:17:20 +0000 2018
+426,0.4404,0.0,0.592,0.408,fantastic ms.,"@lrnrd thanks, bb 💖",Mon Jul 09 17:06:00 +0000 2018
+427,0.6588,0.0,0.329,0.671,fantastic ms.,"@jstn Oh yeah, Coava, Stumptown and Good Coffee are my long standing favs!",Mon Jul 09 13:04:47 +0000 2018
+428,0.0,0.0,0.0,1.0,fantastic ms.,"I’m so spoiled by Melbourne standards I literally cannot drink this liquid that was just served to me as coffee
+
+😂💀",Mon Jul 09 13:00:00 +0000 2018
+429,0.5574,0.0,0.187,0.813,fantastic ms.,"I’m excited to share that today is my first day at @helpscout as a front-end engineer on the design team, which is… https://t.co/LrW8L2lBcq",Mon Jul 09 12:42:20 +0000 2018
+430,-0.7096,0.371,0.0,0.629,fantastic ms.,"Here lies Karolina, defeated by jetlag after mere three hours of sleep.",Mon Jul 09 08:03:22 +0000 2018
+431,0.5106,0.0,0.163,0.837,fantastic ms.,@andrewvijay Everywhere to be honest. That particular one was in the US. That mostly doesn’t happen in Australia.,Sun Jul 08 19:48:49 +0000 2018
+432,0.0,0.0,0.0,1.0,fantastic ms.,@mctrebo Boston,Sun Jul 08 19:48:11 +0000 2018
+433,-0.4576,0.15,0.0,0.85,fantastic ms.,"@LukesBeard It’s the most annoying thing that all social media, including Instagram, butchers the quality of photos… https://t.co/7y8A7IuLcT",Sun Jul 08 19:45:15 +0000 2018
+434,-0.25,0.1,0.0,0.9,fantastic ms.,"“Perks” of traveling alone as a woman: being called “honey” in all restaurants/stores, being grabbed by the arm by… https://t.co/ziCifcCI2x",Sun Jul 08 19:06:16 +0000 2018
+435,0.555,0.0,0.193,0.807,fantastic ms.,@mattopsahl Oh! I did go to the Boston Common and Public Garden :) will check it out!,Sun Jul 08 17:39:19 +0000 2018
+436,0.0772,0.0,0.067,0.933,fantastic ms.,@amyngyn tbh I specifically look for “healthy” recipes because I don’t want all of the sugar / butter / cream in my… https://t.co/tEki0zBt8v,Sun Jul 08 17:37:47 +0000 2018
+437,0.5499,0.32,0.346,0.334,fantastic ms.,"Horribly jet lagged and battling anxiety, but Boston sure is pretty. ❤️ https://t.co/IYfWZjvqLe",Sun Jul 08 17:34:51 +0000 2018
+438,0.0,0.0,0.0,1.0,fantastic ms.,@jilljubs Omg me too but I’m also afraid,Sat Jul 07 15:23:42 +0000 2018
+439,0.6476,0.0,0.209,0.791,fantastic ms.,"Excited to be going to @xoxo this year with @benschwarz! Portland holds a dear place in my heart. 
+
+Can’t wait to c… https://t.co/7s7h3Ti8sp",Fri Jul 06 23:22:17 +0000 2018
+440,-0.5994,0.302,0.0,0.698,BBC News (World),Soviet 1968 invasion: Czechs still feel Cold War shivers https://t.co/NSD01Qay2M,Mon Aug 20 23:27:01 +0000 2018
+441,-0.296,0.196,0.0,0.804,BBC News (World),Trump vows 'no concessions' with Turkey over US pastor https://t.co/i92D4Ai3Gd,Mon Aug 20 22:56:19 +0000 2018
+442,-0.7351,0.437,0.0,0.563,BBC News (World),Colorado dad charged with killing pregnant wife and girls https://t.co/ebdNAO7bBV,Mon Aug 20 22:14:20 +0000 2018
+443,0.0,0.0,0.0,1.0,BBC News (World),Canadian PM Justin Trudeau defends 'racism' jab at heckler https://t.co/WX8d8yyJjj,Mon Aug 20 21:15:01 +0000 2018
+444,0.7579,0.0,0.265,0.735,BBC News (World),"Shares in the electric car maker started trade down more than 4%, but recovered to close in positive territory https://t.co/lDg3Ah4LVD",Mon Aug 20 21:00:20 +0000 2018
+445,-0.8126,0.363,0.0,0.637,BBC News (World),"Agents say the man is wanted for murder in Mexico, a claim his lawyers dispute https://t.co/FkpVZxFxOu",Mon Aug 20 20:54:37 +0000 2018
+446,0.0,0.0,0.0,1.0,BBC News (World),RT @bbcweather: Typhoon #SOULIK is heading for the #Ryukyu Islands of #Japan. #Kyushu is likely to be side-swept and cities of #Kagoshima #…,Mon Aug 20 19:07:15 +0000 2018
+447,-0.6705,0.333,0.0,0.667,BBC News (World),Eight hikers killed in flash flooding in southern Italy https://t.co/nyZBHubvKH,Mon Aug 20 19:01:37 +0000 2018
+448,-0.8225,0.487,0.0,0.513,BBC News (World),US dog walker killed in South Carolina alligator attack https://t.co/ZmbUEuJBdo,Mon Aug 20 18:30:15 +0000 2018
+449,-0.5574,0.286,0.0,0.714,BBC News (World),Trump aide 'fired over ties to white nationalist event' https://t.co/3WbrhNtVZ8,Mon Aug 20 18:04:40 +0000 2018
+450,-0.8555,0.627,0.0,0.373,BBC News (World),Chechen police kill four teenage attackers https://t.co/v0u8Fsn6JY,Mon Aug 20 17:39:41 +0000 2018
+451,-0.7783,0.362,0.0,0.638,BBC News (World),"RT @BBC_HaveYourSay: How fake news is causing further chaos during the Kerala floods
+
+https://t.co/icsvUpx0zd",Mon Aug 20 17:07:41 +0000 2018
+452,0.0,0.0,0.0,1.0,BBC News (World),"The smoke is causing public health concerns for residents
+
+https://t.co/axjDxKE6Y5",Mon Aug 20 16:59:32 +0000 2018
+453,0.0,0.0,0.0,1.0,BBC News (World),Six held over 'drugs bus' which crashed in Ecuador https://t.co/RpuuTEykjE,Mon Aug 20 15:31:20 +0000 2018
+454,0.5423,0.0,0.259,0.741,BBC News (World),Uri Avnery: Veteran Israeli peace activist who met Arafat dies https://t.co/Ui7HKSr0WH,Mon Aug 20 14:56:04 +0000 2018
+455,-0.2732,0.244,0.163,0.593,BBC News (World),Over 175 ex-US spy officials join Brennan clearance outcry https://t.co/l87uk1ESUJ,Mon Aug 20 14:51:03 +0000 2018
+456,-0.6369,0.276,0.0,0.724,BBC News (World),In full: Pope Francis' letter on child sex abuse and cover-ups https://t.co/1q6Vq9kSnl,Mon Aug 20 14:50:08 +0000 2018
+457,-0.4522,0.212,0.0,0.788,BBC News (World),Drivers who get their work from apps 'more likely to crash' https://t.co/M1KfsTG5rf,Mon Aug 20 14:41:04 +0000 2018
+458,0.2023,0.0,0.153,0.847,BBC News (World),RT @BBCNews: Paris Jackson apologises over Harper's Bazaar Singapore cover https://t.co/QqyaITcKxy,Mon Aug 20 14:40:25 +0000 2018
+459,0.0,0.0,0.0,1.0,BBC News (World),RT @BBCNews: Stormy Daniels on CBB row: 'It was never about the money' https://t.co/YnSn2ytMTN,Mon Aug 20 14:39:21 +0000 2018
+460,-0.7579,0.265,0.0,0.735,CBS News,"Iowa college student Mollie Tibbetts has been found dead, just over a month after she was reported missing, CBS New… https://t.co/HEzINKptJP",Tue Aug 21 13:20:37 +0000 2018
+461,-0.7579,0.265,0.0,0.735,CBS News,"JUST IN: Mollie Tibbetts has been found dead, nearly five weeks after the 20-year-old went missing near Brooklyn, I… https://t.co/KsJwS9jhjH",Tue Aug 21 13:17:21 +0000 2018
+462,0.0,0.0,0.0,1.0,CBS News,22 states and D.C. urge court to vacate and reverse FCC rollback of net neutrality https://t.co/FCgtxkkEsM https://t.co/2Z3INEHZCc,Tue Aug 21 13:14:31 +0000 2018
+463,-0.4019,0.188,0.0,0.812,CBS News,"WATCH: On Monday night, protesters toppled the controversial ""Silent Sam"" Confederate statue at the University of N… https://t.co/XSryfhHeO0",Tue Aug 21 13:00:08 +0000 2018
+464,-0.5267,0.196,0.0,0.804,CBS News,"Dozens of men were duped by a woman named Natasha Aponte on Tinder, who tricked them into massive dating competitio… https://t.co/Q3Vk3yFRue",Tue Aug 21 12:39:54 +0000 2018
+465,-0.2732,0.104,0.0,0.896,CBS News,"A New York City priest says he warned senior Roman Catholic officials about Cardinal Theodore McCarrick, who was su… https://t.co/xz3bFP0Gkc",Tue Aug 21 12:19:44 +0000 2018
+466,0.4824,0.0,0.196,0.804,CBS News,DRAKE SURPRISE: The rapper visited 11-year-old Sofia in the hospital while she awaits a heart transplant -- and the… https://t.co/mmtHWnYWfA,Tue Aug 21 12:00:23 +0000 2018
+467,0.0,0.0,0.0,1.0,CBS News,"Animal crackers' animals ""freed"" as boxes get new look https://t.co/Y3chvqO4Mn https://t.co/PZ6t9kNTMC",Tue Aug 21 11:39:53 +0000 2018
+468,0.0516,0.109,0.164,0.727,CBS News,"Iran displays new twin-seat fighter jet, saying it's all Iranian-made and with advanced avionics and fire control s… https://t.co/2hS8NItvbg",Tue Aug 21 11:19:52 +0000 2018
+469,-0.3612,0.135,0.0,0.865,CBS News,RT @CBSThisMorning: .@Microsoft says Russian hackers are now targeting Republican-leaning political groups that have criticized Russia and…,Tue Aug 21 11:17:26 +0000 2018
+470,-0.7579,0.265,0.0,0.735,CBS News,RT @CBSThisMorning: Dangerous flash flooding is threatening more than one million people in southern Wisconsin this morning. Eight inches o…,Tue Aug 21 11:17:12 +0000 2018
+471,-0.5574,0.167,0.0,0.833,CBS News,Rockets were fired toward the presidential palace in Kabul as Afghan President Ashraf Ghani was delivering his holi… https://t.co/9Rr1B9qNNf,Tue Aug 21 10:59:41 +0000 2018
+472,-0.743,0.259,0.0,0.741,CBS News,AHEAD on @CBSThisMorning: Hear from the priest who said he warned the Catholic church about sex abuse allegations t… https://t.co/rcmMmbfbxU,Tue Aug 21 10:45:01 +0000 2018
+473,-0.7269,0.234,0.0,0.766,CBS News,The last Nazi war crimes suspect facing deportation from the U.S. was taken from his New York City home and deporte… https://t.co/9f9vHoaEx9,Tue Aug 21 10:40:00 +0000 2018
+474,0.296,0.0,0.099,0.901,CBS News,A new study highlights how sexism and gender attitudes affect earnings and job prospects for women in the U.S. It f… https://t.co/Ks1WOQhSt3,Tue Aug 21 10:29:33 +0000 2018
+475,0.0772,0.098,0.112,0.791,CBS News,"Is there value in being bored? Ahead on @CBSThisMorning, @jdickerson spoke with @Medium &amp; @Twitter’s @ev Williams a… https://t.co/a67R8JxYoW",Tue Aug 21 10:24:23 +0000 2018
+476,0.0,0.0,0.0,1.0,CBS News,Microsoft says it has uncovered new Russian hacking attempts targeting U.S. political groups ahead of the midterm e… https://t.co/SYAcEiS4pv,Tue Aug 21 10:19:45 +0000 2018
+477,-0.4215,0.259,0.0,0.741,CBS News,Business economists cite fears about Trump policies https://t.co/HVkeY9EgwB https://t.co/kldpliqoK8,Tue Aug 21 10:03:04 +0000 2018
+478,0.0,0.0,0.0,1.0,CBS News,"Animal crackers' animals ""freed"" as boxes get new look https://t.co/MMgM3Q86ww https://t.co/GeDwHbRGJT",Tue Aug 21 09:56:03 +0000 2018
+479,0.0,0.0,0.0,1.0,CBS News,Melania Trump traveling solo to Africa later this year https://t.co/CGAtbIwlfG https://t.co/hqkF0Rs4S7,Tue Aug 21 09:48:03 +0000 2018
+480,0.0,0.0,0.0,1.0,The New York Times,"RT @nytpolitics: “I’m not a clone of my father."" Levi Sanders, son of Bernie, is running for Congress in New Hampshire. His father hasn't e…",Tue Aug 21 14:53:05 +0000 2018
+481,-0.7906,0.28,0.0,0.72,The New York Times,Christopher Watts told the police it was his wife who strangled their 2 young daughters — and that he strangled her… https://t.co/ptGKG2UyrQ,Tue Aug 21 14:43:01 +0000 2018
+482,0.25,0.0,0.105,0.895,The New York Times,"Wells Fargo asked if a candidate would be taking donations from ""lobbyists from the medical marijuana industry."" Th… https://t.co/4NwHQMK0Zx",Tue Aug 21 14:33:01 +0000 2018
+483,0.0,0.0,0.0,1.0,The New York Times,"""They thought I was crazy,"" the widower said. "" 'Jerry, this girl's not for you.' "" https://t.co/bmSm7pGeDs",Tue Aug 21 14:23:02 +0000 2018
+484,0.0,0.0,0.0,1.0,The New York Times,"RT @nytimesbusiness: PepsiCo moves into the ""razors-and-blades"" business model. Acquiring SodaStream gives it a new avenue into your kitche…",Tue Aug 21 14:14:06 +0000 2018
+485,-0.3818,0.11,0.0,0.89,The New York Times,"The Nazi guard lived a quiet life in New York City for decades, having lied on his visa application for the United… https://t.co/1EMxrSEcZZ",Tue Aug 21 14:00:10 +0000 2018
+486,0.4404,0.0,0.178,0.822,The New York Times,Breaking News: The EPA unveiled its new pollution rules for coal power. In the fine print: Increased emissions coul… https://t.co/2OoQ0Y3ryM,Tue Aug 21 13:51:04 +0000 2018
+487,0.3612,0.0,0.135,0.865,The New York Times,"""This gorge filled in a very short time with water, and people were catapulted out like bullets"" https://t.co/BZ3oef6gY5",Tue Aug 21 13:44:01 +0000 2018
+488,0.4588,0.0,0.125,0.875,The New York Times,"RT @nytimesworld: He robbed a bank in Canada in 1958, setting off an international manhunt for a man who was a ""neat dresser,"" ""nightclub h…",Tue Aug 21 13:30:05 +0000 2018
+489,0.3182,0.0,0.108,0.892,The New York Times,"Paris Jackson, who recently told fans she is bisexual, apologized this week for appearing on the cover of Harper’s… https://t.co/FFJlv8aoJn",Tue Aug 21 13:14:07 +0000 2018
+490,0.0,0.0,0.0,1.0,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/TTueAuhQfF https://t.co/yYn7vGRKKF,Tue Aug 21 13:00:11 +0000 2018
+491,-0.4927,0.166,0.0,0.834,The New York Times,"German towns where Facebook use was higher than average experienced more attacks on refugees, researchers found https://t.co/5TaRpYpNdA",Tue Aug 21 12:45:08 +0000 2018
+492,0.0,0.0,0.0,1.0,The New York Times,Alaska and Wyoming are voting today. Here's what to watch tonight. https://t.co/VAEprF8a9e,Tue Aug 21 12:30:03 +0000 2018
+493,0.5719,0.0,0.222,0.778,The New York Times,"""Speaks perfect English,"" President Trump said about a Hispanic-American Border Patrol agent from Texas https://t.co/uhkJMjwMeR",Tue Aug 21 12:14:03 +0000 2018
+494,-0.4404,0.146,0.0,0.854,The New York Times,"Your daily @DealBook Briefing:
+
+• Tesla's suppliers worry about getting paid.
+
+• Trump takes on the Fed over intere… https://t.co/E7B5YBFsoP",Tue Aug 21 12:00:08 +0000 2018
+495,-0.5423,0.156,0.0,0.844,The New York Times,Kelly Marie Tran deleted her Instagram posts this summer in response to online harassment. Here she speaks out for… https://t.co/pFyQvnz3i7,Tue Aug 21 11:45:01 +0000 2018
+496,-0.4404,0.121,0.0,0.879,The New York Times,"""We are now seeing another uptick in attacks. What is particular in this instance is the broadening of the type of… https://t.co/zTMXWmGF2p",Tue Aug 21 11:29:05 +0000 2018
+497,-0.4404,0.146,0.0,0.854,The New York Times,The policy began in secret. The Trump administration denied such a policy existed. And when it finally acknowledged… https://t.co/SwafyOY1S5,Tue Aug 21 11:14:01 +0000 2018
+498,-0.5106,0.193,0.0,0.807,The New York Times,"Microsoft said it had seized fake websites, linked to the Russian military, meant to trick people into thinking the… https://t.co/ZhGeotji9J",Tue Aug 21 11:00:02 +0000 2018
+499,0.0,0.0,0.0,1.0,The New York Times,A Confederate statue known as 'Silent Sam' at the University of North Carolina was brought down by demonstrators wh… https://t.co/4kES4a5iMk,Tue Aug 21 10:44:01 +0000 2018
